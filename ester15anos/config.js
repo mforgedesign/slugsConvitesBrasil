@@ -45,14 +45,14 @@ window.config = {
     {
       "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
-      "titulo": "Dicas dePresente",
+      "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
       "conteudo": "<div class=\"text-left\">\n  <div class=\"grid grid-cols-2 gap-3 mb-6\">\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shoe-prints text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Calçados<br>38\n      </span>\n    </div>\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shirt text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Roupas<br>Tamanho P\n      </span>\n    </div>\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-regular fa-gem text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Joias<br>Prata\n      </span>\n    </div>\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-spray-can-sparkles text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Perfumes\n      </span>\n    </div>\n\n  </div>\n</div>"
     },
     {
       "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
-      "titulo": "Manual doConvidado",
+      "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
       "conteudo": "<div class=\"space-y-3\">\n\n  <div class=\"flex gap-4 items-center bg-white/5 p-4 rounded-xl border border-white/10 hover:bg-white/10 transition-colors group\">\n    <div class=\"w-12 h-12 rounded-full bg-white/10 flex items-center justify-center shrink-0 border border-white/20 shadow-[0_0_10px_rgba(255,255,255,0.1)] group-hover:bg-white/20 transition-colors\">\n      <i class=\"fa-solid fa-user-tie text-white text-xl\"></i>\n    </div>\n    <div>\n      <h3 class=\"font-bold text-white text-sm mb-0.5 tracking-wide\">Traje Social</h3>\n      <p class=\"text-xs text-stone-300 leading-relaxed\">\n        Sugerimos traje social para a ocasião. Elegância e sofisticação vão tornar este momento ainda mais especial.\n      </p>\n    </div>\n  </div>\n\n</div>"
     },
