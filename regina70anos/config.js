@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul degradê e branco",
     "tema": "Flores naturais",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446808388.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774450678902.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "regina70anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/cover_1774446808388.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/cover_1774450678902.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/slide1_1774446808388.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/slide1_1774450678902.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446808388.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446808388.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446808388.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774450678902.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774450678902.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774450678902.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -54,7 +54,7 @@ window.config = {
   },
   "config": {
     "exibirMarcaDagua": false,
-    "buttonColor": "#2c569b",
+    "buttonColor": "#2c9b3e",
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
