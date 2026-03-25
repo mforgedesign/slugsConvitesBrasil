@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul degradê e branco",
     "tema": "Flores naturais",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446360623.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446808388.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "regina70anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/cover_1774446360623.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/cover_1774446808388.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/slide1_1774446360623.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/slide1_1774446808388.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446360623.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446360623.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446360623.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446808388.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446808388.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446808388.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
