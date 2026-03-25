@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul degradê e branco",
     "tema": "Flores naturais",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446344371.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446360623.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "regina70anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/cover_1774446344371.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/cover_1774446360623.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/slide1_1774446344371.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/slide1_1774446360623.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446344371.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446344371.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446344371.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446360623.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/folha_1774446360623.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/regina70anos/music_1774446360623.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -42,7 +42,7 @@ window.config = {
     {
       "tipoAcao": "Link",
       "tipoVisual": "css",
-      "titulo": "ConfirmarPresença",
+      "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
       "conteudo": "https://docs.google.com/forms/d/e/1FAIpQLScEg-q-tulnW38QXgLmdou-cwUsUDIyDI4IKoTaS_S82GxY3Q/viewform?usp=publish-editor"
     }
