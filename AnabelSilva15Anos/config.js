@@ -1,0 +1,79 @@
+window.config = {
+  "evento": {
+    "tipo": "Aniversário",
+    "nome": "Anabel Silva",
+    "idade": 15,
+    "data": "2026-12-20",
+    "hora": "20:00",
+    "endereco": "Buffet Dream Garden Rua Borcelle, 312 - Brasilândia São Paulo - SP"
+  },
+  "convite": {
+    "paletaCores": "Azul com Prata",
+    "tema": "15 Anos",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1774706006184.mp3",
+    "tipoAbertura": "longa",
+    "particulasAbertura": true,
+    "slug": "AnabelSilva15Anos",
+    "seo": {
+      "pageTitle": "Convite: 15 Anos - Anabel Silva",
+      "ogTitle": "Você está convidado para os 15 anos da Alice!",
+      "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
+    }
+  },
+  "assets": {
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/cover_1774706006184.jpg",
+    "aberturaSlides": [
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/slide1_1774706006184.mp4"
+    ],
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1774706006184.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1774706006184.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1774706006184.mp3",
+    "fotos": [],
+    "popupImagensPorBotao": {}
+  },
+  "botoes": [
+    {
+      "tipoAcao": "Link",
+      "tipoVisual": "css",
+      "titulo": "Como Chegar",
+      "icone": "fa-solid fa-location-dot",
+      "conteudo": "https://maps.app.goo.gl/KovUiTzz2Szr9BVn6"
+    },
+    {
+      "tipoAcao": "Link",
+      "tipoVisual": "css",
+      "titulo": "Dicas dePresente",
+      "icone": "fa-solid fa-gift",
+      "conteudo": "<div class=\"text-left\"><div class=\"grid grid-cols-2 gap-3 mb-6\"><div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\"><i class=\"fa-regular fa-gem text-white text-xl drop-shadow-md\"></i><span class=\"text-[10px] sm:text-xs leading-tight font-medium\">Jóias Prata,<br>Nike</span></div><div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\"><i class=\"fa-solid fa-glasses text-white text-xl drop-shadow-md\"></i><span class=\"text-[10px] sm:text-xs leading-tight font-medium\">Óculos de Sol,<br>Itens de Praia</span></div><div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\"><i class=\"fa-solid fa-shirt text-white text-xl drop-shadow-md\"></i><span class=\"text-[10px] sm:text-xs leading-tight font-medium\">Roupas P/PP<br>(32, 34, 36)</span></div><div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\"><i class=\"fa-solid fa-shoe-prints text-white text-xl drop-shadow-md\"></i><span class=\"text-[10px] sm:text-xs leading-tight font-medium\">Itens da Farm,<br>Sapato 35</span></div><div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\"><i class=\"fa-solid fa-spray-can-sparkles text-white text-xl drop-shadow-md\"></i><span class=\"text-[10px] sm:text-xs leading-tight font-medium\">Perfume,<br>Body Splash</span></div><div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\"><i class=\"fa-solid fa-spa text-white text-xl drop-shadow-md\"></i><span class=\"text-[10px] sm:text-xs leading-tight font-medium\">O Boticário,<br>Cabelos Cachos</span></div><div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\"><i class=\"fa-solid fa-futbol text-white text-xl drop-shadow-md\"></i><span class=\"text-[10px] sm:text-xs leading-tight font-medium\">Itens do<br>Flamengo</span></div><div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\"><i class=\"fa-solid fa-dumbbell text-white text-xl drop-shadow-md\"></i><span class=\"text-[10px] sm:text-xs leading-tight font-medium\">Academia /<br>Muay Thai</span></div></div><div class=\"bg-black/40 p-4 rounded-xl border border-white/20 mb-4 text-center relative overflow-hidden\"><div class=\"absolute inset-0 bg-white/5 animate-pulse\"></div><p class=\"text-[10px] text-stone-300 mb-1 uppercase tracking-widest relative z-10\">Chave PIX (Telefone)</p><p class=\"font-bold text-xl text-white select-all tracking-wider relative z-10\">11988509403</p></div><button onclick=\"navigator.clipboard.writeText('11988509403'); alert('Chave Pix copiada!');\" class=\"w-full bg-gradient-to-r from-[var(--button-color)] to-blue-800 hover:brightness-110 text-white font-bold py-3.5 rounded-xl transition-all shadow-[0_0_15px_rgba(12,43,113,0.4)] flex items-center justify-center gap-2 uppercase text-xs tracking-widest relative overflow-hidden group\"><span class=\"relative z-10 flex items-center gap-2\">Copiar Chave Pix <i class=\"fa-regular fa-copy group-hover:scale-110 transition-transform\"></i></span><div class=\"absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300\"></div></button></div>"
+    },
+    {
+      "tipoAcao": "RSVP",
+      "tipoVisual": "css",
+      "titulo": "ConfirmarPresença",
+      "icone": "fa-solid fa-check",
+      "whatsapp": "5511977186185",
+      "rsvpConfig": {
+        "exibirNome": true,
+        "exibirWhatsapp": false,
+        "exibirAcompanhantes": false
+      }
+    }
+  ],
+  "upsell": {
+    "galeriaFotos": false,
+    "saveTheDate": false,
+    "lembrete": true
+  },
+  "config": {
+    "exibirMarcaDagua": true,
+    "buttonColor": "#441214",
+    "buttonSize": 1,
+    "isButtonFilled": true,
+    "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
+    "brilhos": {
+      "esquerdo": true,
+      "direito": true,
+      "centro": true
+    }
+  }
+};
