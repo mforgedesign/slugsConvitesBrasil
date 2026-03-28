@@ -5,12 +5,12 @@ window.config = {
     "idade": 18,
     "data": "2026-12-20",
     "hora": "20:00",
-    "endereco": "Buffet Dream Garden Rua Borcelle, 312 - Brasilândia São Paulo - SP"
+    "endereco": "Av. Maria Campos, 464 - Centro, Osasco - SP, 06010-065"
   },
   "convite": {
     "paletaCores": "Azul com Prata",
     "tema": "15 Anos",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1774706597374.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1774706953814.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnabelSilva15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/cover_1774706597374.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/cover_1774706953814.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/slide1_1774706597374.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/slide1_1774706953814.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1774706597374.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1774706597374.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1774706597374.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1774706953814.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1774706953814.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1774706953814.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -42,14 +42,14 @@ window.config = {
     {
       "tipoAcao": "Link",
       "tipoVisual": "css",
-      "titulo": "Dicas dePresente",
+      "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
       "conteudo": "https://share.google/jTU2bS7DjSOVsixjN"
     },
     {
       "tipoAcao": "RSVP",
       "tipoVisual": "css",
-      "titulo": "ConfirmarPresença",
+      "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
       "whatsapp": "5511977186185",
       "rsvpConfig": {
