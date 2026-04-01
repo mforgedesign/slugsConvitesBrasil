@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul com Prata",
     "tema": "15 Anos",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1774706953814.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1775086112349.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnabelSilva15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/cover_1774706953814.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/cover_1775086112349.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/slide1_1774706953814.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/slide1_1775086112349.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1774706953814.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1774706953814.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1774706953814.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1775086112349.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1775086112349.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1775086112349.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -44,7 +44,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://share.google/jTU2bS7DjSOVsixjN"
+      "conteudo": "https://aniversario-wagl.listaideal.com.br/pt"
     },
     {
       "tipoAcao": "RSVP",
