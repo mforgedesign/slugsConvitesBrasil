@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul com Prata",
     "tema": "15 Anos",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1775213260177.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1775215479054.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnabelSilva15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/cover_1775213260177.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/cover_1775215479054.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/slide1_1775213260177.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/slide1_1775215479054.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1775213260177.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1775213260177.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1775213260177.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1775215479054.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/folha_1775215479054.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnabelSilva15Anos/music_1775215479054.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -65,7 +65,7 @@ window.config = {
     "lembrete": true
   },
   "config": {
-    "exibirMarcaDagua": true,
+    "exibirMarcaDagua": false,
     "buttonColor": "#441214",
     "buttonSize": 1,
     "isButtonFilled": true,
