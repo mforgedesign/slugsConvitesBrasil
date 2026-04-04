@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa pink deep, prata, rosa bebê",
     "tema": "Jardim Encantado",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775343632479.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775343785384.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "15anos-alicealves",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/cover_1775343632479.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/cover_1775343785384.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide1_1775343632479.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide1_1775343785384.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775343632479.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775343632479.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775343632479.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775343785384.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775343785384.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775343785384.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -73,7 +73,7 @@ window.config = {
   },
   "config": {
     "exibirMarcaDagua": false,
-    "buttonColor": "#ed35bc",
+    "buttonColor": "#e576c7",
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
