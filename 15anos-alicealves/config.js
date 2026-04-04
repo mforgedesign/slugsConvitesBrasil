@@ -1,6 +1,6 @@
 window.config = {
   "evento": {
-    "tipo": "Aniversario",
+    "tipo": "",
     "nome": "Alice Alves",
     "idade": 15,
     "data": "2025-09-05",
@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa pink deep, prata, rosa bebê",
     "tema": "Jardim Encantado",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/Musica_1775308299176.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775334314748.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "15anos-alicealves",
@@ -21,14 +21,15 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/capa_1775308299176.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/cover_1775334314748.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide-1_1775308299176.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide1_1775334314748.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha-preenchida_1775308299176.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha-preenchida_1775308299176.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/Musica_1775308299176.mp3",
-    "fotos": []
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775334314748.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775334314748.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775334314748.mp3",
+    "fotos": [],
+    "popupImagensPorBotao": {}
   },
   "botoes": [
     {
@@ -41,14 +42,14 @@ window.config = {
     {
       "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
-      "titulo": "Dicas de\nPresente",
+      "titulo": "Dicas dePresente",
       "icone": "fa-solid fa-gift",
       "conteudo": "<div style=\"text-align:left;\">\n  <div style=\"display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:24px;\">\n    <div style=\"background:rgba(255,255,255,0.05);padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,0.1);display:flex;align-items:center;gap:12px;\">\n      <i class=\"fa-solid fa-spray-can-sparkles\" style=\"color:white;font-size:20px;\"></i>\n      <span style=\"font-size:11px;line-height:1.3;font-weight:500;color:white;\">Perfume ou Body Splash (doce e suave)</span>\n    </div>\n    <div style=\"background:rgba(255,255,255,0.05);padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,0.1);display:flex;align-items:center;gap:12px;\">\n      <i class=\"fa-solid fa-spa\" style=\"color:white;font-size:20px;\"></i>\n      <span style=\"font-size:11px;line-height:1.3;font-weight:500;color:white;\">Maquiagens</span>\n    </div>\n    <div style=\"background:rgba(255,255,255,0.05);padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,0.1);display:flex;align-items:center;gap:12px;\">\n      <i class=\"fa-regular fa-gem\" style=\"color:white;font-size:20px;\"></i>\n      <span style=\"font-size:11px;line-height:1.3;font-weight:500;color:white;\">Joias em prata</span>\n    </div>\n    <div style=\"background:rgba(255,255,255,0.05);padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,0.1);display:flex;align-items:center;gap:12px;\">\n      <i class=\"fa-solid fa-shoe-prints\" style=\"color:white;font-size:20px;\"></i>\n      <span style=\"font-size:11px;line-height:1.3;font-weight:500;color:white;\">Calçados (tamanho 36)</span>\n    </div>\n    <div style=\"background:rgba(255,255,255,0.05);padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,0.1);display:flex;align-items:center;gap:12px;\">\n      <i class=\"fa-solid fa-shirt\" style=\"color:white;font-size:20px;\"></i>\n      <span style=\"font-size:11px;line-height:1.3;font-weight:500;color:white;\">Roupas (tamanho M)</span>\n    </div>\n    <div style=\"background:rgba(255,255,255,0.05);padding:12px;border-radius:12px;border:1px solid rgba(255,255,255,0.1);display:flex;align-items:center;gap:12px;\">\n      <i class=\"fa-solid fa-heart\" style=\"color:white;font-size:20px;\"></i>\n      <span style=\"font-size:11px;line-height:1.3;font-weight:500;color:white;\">Itens de autocuidado</span>\n    </div>\n  </div>\n  <div style=\"background:rgba(0,0,0,0.4);padding:16px;border-radius:12px;border:1px solid rgba(255,255,255,0.2);margin-bottom:16px;text-align:center;position:relative;overflow:hidden;\">\n    <p style=\"font-size:10px;color:#d6d3d1;margin:0 0 4px 0;text-transform:uppercase;letter-spacing:2px;\">Chave PIX</p>\n    <p style=\"font-weight:bold;font-size:20px;color:white;letter-spacing:2px;margin:0;\">+55 11 93747-3910</p>\n  </div>\n  <button onclick=\"navigator.clipboard.writeText('+55 11 93747-3910'); alert('Chave Pix copiada');\" style=\"width:100%;background:linear-gradient(to right,#0c2b71,#1e3a8a);color:white;font-weight:bold;padding:14px;border-radius:12px;border:none;cursor:pointer;text-transform:uppercase;font-size:12px;letter-spacing:2px;\">\n    Copiar Chave Pix <i class=\"fa-regular fa-copy\"></i>\n  </button>\n</div>"
     },
     {
       "tipoAcao": "RSVP",
       "tipoVisual": "css",
-      "titulo": "Confirmar\nPresença",
+      "titulo": "ConfirmarPresença",
       "icone": "fa-solid fa-check",
       "whatsapp": "5511937473910",
       "rsvpConfig": {
