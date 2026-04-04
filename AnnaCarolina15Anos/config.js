@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775346612845.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775346765150.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnnaCarolina15Anos",
@@ -21,15 +21,15 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775346612845.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775346765150.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775346612845.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775346612845.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775346612845.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775346765150.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775346765150.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775346765150.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775346612845.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775346612845.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775346612845.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775346765150.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775346765150.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775346765150.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "<div class=\"text-left\">\n\n  <div class=\"grid grid-cols-2 gap-3 mb-6\">\n\n    <!-- Manequim -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shirt text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Manequim<br>40\n      </span>\n    </div>\n\n    <!-- Blusa -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shirt text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Blusa<br>G\n      </span>\n    </div>\n\n    <!-- Calçados -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shoe-prints text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Calçados<br>37\n      </span>\n    </div>\n\n    <!-- Jóias -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-regular fa-gem text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Jóias<br>Douradas ou Prata\n      </span>\n    </div>\n\n    <!-- Perfume -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-spray-can-sparkles text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Perfume<br>Doce ou Cítrico\n      </span>\n    </div>\n\n  </div>\n\n  <!-- PIX -->\n  <div class=\"bg-black/40 p-4 rounded-xl border border-white/20 mb-4 text-center relative overflow-hidden\">\n    <div class=\"absolute inset-0 bg-white/5 animate-pulse\"></div>\n    <p class=\"text-[10px] text-stone-300 mb-1 uppercase tracking-widest relative z-10\">\n      Chave PIX (Telefone)\n    </p>\n    <p class=\"font-bold text-xl text-white select-all tracking-wider relative z-10\">\n      11988509403\n    </p>\n  </div>\n\n  <button onclick=\"navigator.clipboard.writeText('11988509403'); alert('Chave Pix copiada!');\"\n    class=\"w-full bg-gradient-to-r from-[var(--button-color)] to-blue-800 hover:brightness-110 text-white font-bold py-3.5 rounded-xl transition-all shadow-[0_0_15px_rgba(12,43,113,0.4)] flex items-center justify-center gap-2 uppercase text-xs tracking-widest relative overflow-hidden group\">\n    \n    <span class=\"relative z-10 flex items-center gap-2\">\n      Copiar Chave Pix\n      <i class=\"fa-regular fa-copy group-hover:scale-110 transition-transform\"></i>\n    </span>\n\n    <div class=\"absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300\"></div>\n  </button>\n\n</div>"
+      "conteudo": "<div class=\"text-left\">\n\n  <div class=\"grid grid-cols-2 gap-3 mb-6\">\n\n    <!-- Manequim -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shirt text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Manequim<br>40\n      </span>\n    </div>\n\n    <!-- Blusa -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shirt text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Blusa<br>G\n      </span>\n    </div>\n\n    <!-- Calçados -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shoe-prints text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Calçados<br>37\n      </span>\n    </div>\n\n    <!-- Jóias -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-regular fa-gem text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Jóias<br>Douradas ou Prata\n      </span>\n    </div>\n\n    <!-- Perfume -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-spray-can-sparkles text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Perfume<br>Doce ou Cítrico\n      </span>\n    </div>\n\n  </div>\n\n</div>"
     },
     {
       "tipoAcao": "PopupHtml",
