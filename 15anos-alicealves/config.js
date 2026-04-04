@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa pink deep, prata, rosa bebê",
     "tema": "Jardim Encantado",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775343785384.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775343840685.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "15anos-alicealves",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/cover_1775343785384.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/cover_1775343840685.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide1_1775343785384.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide1_1775343840685.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775343785384.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775343785384.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775343785384.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775343840685.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775343840685.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775343840685.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -59,7 +59,7 @@ window.config = {
       }
     },
     {
-      "tipoAcao": "Link",
+      "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
