@@ -1,16 +1,16 @@
 window.config = {
   "evento": {
-    "tipo": "",
+    "tipo": "Aniversário",
     "nome": "Alice Alves",
     "idade": 15,
-    "data": "2025-09-05",
+    "data": "2026-09-05",
     "hora": "19:00",
     "endereco": "Av. Dr. Eduardo Cotching, 658 - Jardim Analia Franco, São Paulo - SP, 03356-000"
   },
   "convite": {
     "paletaCores": "Rosa pink deep, prata, rosa bebê",
     "tema": "Jardim Encantado",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775344269909.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775345589841.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "15anos-alicealves",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/cover_1775344269909.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/cover_1775345589841.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide1_1775344269909.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide1_1775345589841.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775344269909.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775344269909.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775344269909.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775345589841.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775345589841.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775345589841.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
