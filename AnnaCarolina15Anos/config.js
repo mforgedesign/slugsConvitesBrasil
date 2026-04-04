@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775346765150.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775346958751.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnnaCarolina15Anos",
@@ -21,15 +21,15 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775346765150.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775346958751.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775346765150.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775346765150.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775346765150.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775346958751.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775346958751.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775346958751.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775346765150.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775346765150.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775346765150.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775346958751.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775346958751.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775346958751.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -64,7 +64,7 @@ window.config = {
       "rsvpConfig": {
         "exibirNome": true,
         "exibirWhatsapp": false,
-        "exibirAcompanhantes": true
+        "exibirAcompanhantes": false
       }
     }
   ],
