@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775347393701.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775347712664.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnnaCarolina15Anos",
@@ -21,15 +21,15 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775347393701.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775347712664.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775347393701.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775347393701.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775347393701.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775347712664.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775347712664.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775347712664.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775347393701.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775347393701.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775347393701.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775347712664.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775347712664.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775347712664.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "<div class=\"text-left\">\n\n  <div class=\"grid grid-cols-2 gap-3 mb-6\">\n\n    <!-- Manequim -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shirt text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Manequim<br>40\n      </span>\n    </div>\n\n    <!-- Blusa -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shirt text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Blusa<br>G\n      </span>\n    </div>\n\n    <!-- Calçados -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shoe-prints text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Calçados<br>37\n      </span>\n    </div>\n\n    <!-- Jóias -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-regular fa-gem text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Jóias<br>Douradas ou Prata\n      </span>\n    </div>\n\n    <!-- Perfume -->\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-spray-can-sparkles text-white text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium\">\n        Perfume<br>Doce ou Cítrico\n      </span>\n    </div>\n\n  </div>\n\n</div>"
+      "conteudo": "<div class=\"flex flex-col gap-3 text-left\">\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-full px-4 py-3 shadow-md\">\n    <i class=\"fa-solid fa-shirt text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium\">Manequim - 40</span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-full px-4 py-3 shadow-md\">\n    <i class=\"fa-solid fa-shirt text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium\">Blusa - Tamanho G</span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-full px-4 py-3 shadow-md\">\n    <i class=\"fa-solid fa-shoe-prints text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium\">Calçados - Tam. 37</span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-2xl px-4 py-3 shadow-md\">\n    <i class=\"fa-regular fa-gem text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium leading-snug\">\n      Jóias - Douradas ou Prata\n    </span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-2xl px-4 py-3 shadow-md\">\n    <i class=\"fa-solid fa-spray-can-sparkles text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium leading-snug\">\n      Perfume - Fragrâncias doces ou cítricas\n    </span>\n  </div>\n\n</div>"
     },
     {
       "tipoAcao": "PopupHtml",
