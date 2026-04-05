@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775347712664.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775347854035.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnnaCarolina15Anos",
@@ -21,15 +21,15 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775347712664.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775347854035.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775347712664.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775347712664.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775347712664.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775347854035.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775347854035.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775347854035.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775347712664.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775347712664.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775347712664.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775347854035.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775347854035.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775347854035.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "<div class=\"flex flex-col gap-3 text-left\">\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-full px-4 py-3 shadow-md\">\n    <i class=\"fa-solid fa-shirt text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium\">Manequim - 40</span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-full px-4 py-3 shadow-md\">\n    <i class=\"fa-solid fa-shirt text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium\">Blusa - Tamanho G</span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-full px-4 py-3 shadow-md\">\n    <i class=\"fa-solid fa-shoe-prints text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium\">Calçados - Tam. 37</span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-2xl px-4 py-3 shadow-md\">\n    <i class=\"fa-regular fa-gem text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium leading-snug\">\n      Jóias - Douradas ou Prata\n    </span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-3 bg-white text-gray-800 rounded-2xl px-4 py-3 shadow-md\">\n    <i class=\"fa-solid fa-spray-can-sparkles text-lg opacity-70\"></i>\n    <span class=\"text-sm font-medium leading-snug\">\n      Perfume - Fragrâncias doces ou cítricas\n    </span>\n  </div>\n\n</div>"
+      "conteudo": "<div class=\"flex flex-col gap-4 text-left\">\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-4 bg-pink-100 text-gray-800 rounded-full px-4 py-3 shadow-md\">\n    <div class=\"w-10 h-10 flex items-center justify-center rounded-full bg-pink-200\">\n      <i class=\"fa-solid fa-shirt text-pink-600\"></i>\n    </div>\n    <span class=\"text-sm font-medium\">Manequim - 40</span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-4 bg-pink-100 text-gray-800 rounded-full px-4 py-3 shadow-md\">\n    <div class=\"w-10 h-10 flex items-center justify-center rounded-full bg-pink-200\">\n      <i class=\"fa-solid fa-shirt text-pink-600\"></i>\n    </div>\n    <span class=\"text-sm font-medium\">Blusa - Tamanho G</span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-4 bg-pink-100 text-gray-800 rounded-full px-4 py-3 shadow-md\">\n    <div class=\"w-10 h-10 flex items-center justify-center rounded-full bg-pink-200\">\n      <i class=\"fa-solid fa-shoe-prints text-pink-600\"></i>\n    </div>\n    <span class=\"text-sm font-medium\">Calçados - Tam. 37</span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-4 bg-pink-100 text-gray-800 rounded-2xl px-4 py-3 shadow-md\">\n    <div class=\"w-10 h-10 flex items-center justify-center rounded-full bg-pink-200\">\n      <i class=\"fa-regular fa-gem text-pink-600\"></i>\n    </div>\n    <span class=\"text-sm font-medium leading-snug\">\n      Jóias - Douradas ou Prata\n    </span>\n  </div>\n\n  <!-- Item -->\n  <div class=\"flex items-center gap-4 bg-pink-100 text-gray-800 rounded-2xl px-4 py-3 shadow-md\">\n    <div class=\"w-10 h-10 flex items-center justify-center rounded-full bg-pink-200\">\n      <i class=\"fa-solid fa-spray-can-sparkles text-pink-600\"></i>\n    </div>\n    <span class=\"text-sm font-medium leading-snug\">\n      Perfume - Fragrâncias doces ou cítricas\n    </span>\n  </div>\n\n</div>"
     },
     {
       "tipoAcao": "PopupHtml",
