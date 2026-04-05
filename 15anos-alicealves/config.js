@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa pink deep, prata, rosa bebê",
     "tema": "Jardim Encantado",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775345589841.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775410898027.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "15anos-alicealves",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/cover_1775345589841.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/cover_1775410898027.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide1_1775345589841.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/slide1_1775410898027.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775345589841.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775345589841.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775345589841.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775410898027.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/folha_1775410898027.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-alicealves/music_1775410898027.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -69,10 +69,11 @@ window.config = {
   "upsell": {
     "galeriaFotos": false,
     "saveTheDate": false,
-    "lembrete": true
+    "lembrete": false
   },
   "config": {
     "exibirMarcaDagua": false,
+    "cronometro": true,
     "buttonColor": "#e576c7",
     "buttonSize": 1,
     "isButtonFilled": true,
