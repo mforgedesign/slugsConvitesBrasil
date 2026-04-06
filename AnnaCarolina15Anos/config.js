@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775485206448.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775486481676.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnnaCarolina15Anos",
@@ -21,19 +21,19 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775485206448.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775486481676.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775485206448.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775485206448.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775485206448.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide4_1775485206448.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775486481676.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775486481676.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775486481676.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide4_1775486481676.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775485206448.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775485206448.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775485206448.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775486481676.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775486481676.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775486481676.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775485206448.jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775486481676.jpg"
     }
   },
   "botoes": [
@@ -49,7 +49,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775485206448.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775486481676.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
@@ -74,7 +74,7 @@ window.config = {
   "upsell": {
     "galeriaFotos": false,
     "saveTheDate": false,
-    "lembrete": false
+    "lembrete": true
   },
   "config": {
     "exibirMarcaDagua": false,
