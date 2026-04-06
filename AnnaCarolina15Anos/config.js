@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775486481676.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775489851099.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnnaCarolina15Anos",
@@ -21,19 +21,19 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775486481676.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775489851099.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775486481676.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775486481676.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775486481676.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide4_1775486481676.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775489851099.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775489851099.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775489851099.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide4_1775489851099.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775486481676.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775486481676.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775486481676.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775489851099.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775489851099.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775489851099.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775486481676.jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775489851099.jpg"
     }
   },
   "botoes": [
@@ -49,7 +49,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775486481676.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775489851099.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
@@ -63,7 +63,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "5511988509403",
+      "whatsapp": "5534997953066",
       "rsvpConfig": {
         "exibirNome": true,
         "exibirWhatsapp": false,
