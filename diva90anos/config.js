@@ -1,6 +1,6 @@
 window.config = {
   "evento": {
-    "tipo": "Aniversario",
+    "tipo": "Aniversário",
     "nome": "Diva Vidal",
     "idade": 90,
     "data": "2026-06-06",
@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "verde, lilás, dourado",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/Musica_1775517196748.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/music_1775520211875.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "diva90anos",
@@ -21,20 +21,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/capa_1775517196748.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/cover_1775520211875.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/slide-1_1775517196748.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/slide1_1775520211875.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/folha-preenchida_1775517196748.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/folha-preenchida_1775517196748.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/Musica_1775517196748.mp3",
-    "fotos": []
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/folha_1775520211875.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/folha_1775520211875.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/diva90anos/music_1775520211875.mp3",
+    "fotos": [],
+    "popupImagensPorBotao": {}
   },
   "botoes": [
     {
       "tipoAcao": "RSVP",
       "tipoVisual": "css",
-      "titulo": "Confirmar\nPresenca",
+      "titulo": "ConfirmarPresenca",
       "icone": "fa-solid fa-check",
       "whatsapp": "5511940820140",
       "rsvpConfig": {
@@ -48,7 +49,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Como Chegar",
       "icone": "fa-solid fa-location-dot",
-      "conteudo": "https://www.google.com/maps/search/?api=1&query=Rua%20Flavita%20Bretas%2C%20226%20sal%C3%A3o%20de%20festas%20-%20Luxemburgo"
+      "conteudo": "https://maps.app.goo.gl/ooL1AN9WTAoXh33eA"
     }
   ],
   "upsell": {
