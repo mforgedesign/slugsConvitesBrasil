@@ -10,27 +10,27 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1775654742657.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1775654799162.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Manuella15Anos",
     "seo": {
-      "pageTitle": "",
-      "ogTitle": "Você está convidado para os 15 anos da Alice!",
+      "pageTitle": "Convite 15 Anos Manuella",
+      "ogTitle": "Você está convidado para os 15 anos da Manuella!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/cover_1775654742657.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/cover_1775654799162.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/slide1_1775654742657.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/slide2_1775654742657.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/slide3_1775654742657.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/slide4_1775654742657.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/slide1_1775654799162.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/slide2_1775654799162.jpg",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/slide3_1775654799162.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/slide4_1775654799162.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1775654742657.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1775654742657.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1775654742657.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1775654799162.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1775654799162.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1775654799162.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -40,7 +40,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Como Chegar",
       "icone": "fa-solid fa-location-dot",
-      "conteudo": "https://maps.app.goo.gl/apshuicUt4GEB1UW7"
+      "conteudo": "https://maps.app.goo.gl/eGhhQHQJgQPQUD719"
     },
     {
       "tipoAcao": "PopupHtml",
