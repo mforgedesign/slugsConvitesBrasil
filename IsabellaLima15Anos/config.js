@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Verde e Rose ",
     "tema": "Floresta encantada",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/music_1775833528920.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/music_1775833695948.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "IsabellaLima15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/cover_1775833528920.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/cover_1775833695948.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/slide1_1775833528920.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/slide1_1775833695948.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/folha_1775833528920.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/folha_1775833528920.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/music_1775833528920.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/folha_1775833695948.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/folha_1775833695948.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/music_1775833695948.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
