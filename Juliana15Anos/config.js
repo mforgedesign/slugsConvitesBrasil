@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Marsala, rosa, dourado",
     "tema": "Medieval",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/music_1775859296615.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/music_1775859450879.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Juliana15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/cover_1775859296615.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/cover_1775859450879.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/slide1_1775859296615.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/slide1_1775859450879.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/folha_1775859296615.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/folha_1775859296615.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/music_1775859296615.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/folha_1775859450879.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/folha_1775859450879.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/music_1775859450879.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/Juliana%20Medieval%20Marsala,%20Dourado%20(5)_1775859296615.jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/Juliana%20Medieval%20Marsala,%20Dourado%20(5)_1775859450879.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/Juliana%20Medieval%20Marsala,%20Dourado%20(5)_1775859296615.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/Juliana%20Medieval%20Marsala,%20Dourado%20(5)_1775859450879.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
