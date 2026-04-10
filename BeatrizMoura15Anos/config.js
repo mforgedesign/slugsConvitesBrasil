@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa bebê e dourado",
     "tema": "Floral e borboletas",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/music_1775863810689.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/music_1775864359120.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "BeatrizMoura15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/cover_1775863810689.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/cover_1775864359120.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/slide1_1775863810689.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/slide1_1775864359120.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/folha_1775863810689.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/folha_1775863810689.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/music_1775863810689.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/folha_1775864359120.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/folha_1775864359120.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/music_1775864359120.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "assets/CÃ³pia de Convite Rosa Dourado (3).jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/copia_1775864359120.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/CÃ³pia de Convite Rosa Dourado (3).jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/copia_1775864359120.jpg"
     },
     {
       "tipoAcao": "RSVP",
