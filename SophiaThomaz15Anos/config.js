@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Dourado, Verde, Tiffany, Azul Claro",
     "tema": "Jasmine (Alladin)",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775927300959.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775927831150.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "SophiaThomaz15Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/cover_1775927300959.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/cover_1775927831150.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide1_1775927300959.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide2_1775927300959.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide3_1775927300959.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide4_1775927300959.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide5_1775927300959.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide1_1775927831150.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide2_1775927831150.jpg",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide3_1775927831150.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide4_1775927831150.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide5_1775927831150.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775927300959.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775927300959.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775927300959.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775927831150.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775927831150.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775927831150.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "2": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Jasmine%20(Alladin)%20Sophia%20Convite%2015%20Anos%20%20(7)_1775927300959.jpg"
+      "2": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Jasmine%20(Alladin)%20Sophia%20Convite%2015%20Anos%20%20(7)_1775927831150.jpg"
     }
   },
   "botoes": [
@@ -57,7 +57,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Jasmine%20(Alladin)%20Sophia%20Convite%2015%20Anos%20%20(7)_1775927300959.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Jasmine%20(Alladin)%20Sophia%20Convite%2015%20Anos%20%20(7)_1775927831150.jpg"
     },
     {
       "tipoAcao": "RSVP",
