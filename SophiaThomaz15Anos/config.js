@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Dourado, Verde, Tiffany, Azul Claro",
     "tema": "Jasmine (Alladin)",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775924140974.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775924297480.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "SophiaThomaz15Anos",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/cover_1775924140974.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/cover_1775924297480.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide1_1775924140974.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide2_1775924140974.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide3_1775924140974.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide4_1775924140974.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide5_1775924140974.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide1_1775924297480.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide2_1775924297480.jpg",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide3_1775924297480.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide4_1775924297480.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide5_1775924297480.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775924140974.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775924140974.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775924140974.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775924297480.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775924297480.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775924297480.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -78,7 +78,7 @@ window.config = {
   "config": {
     "exibirMarcaDagua": false,
     "cronometro": false,
-    "buttonColor": "#22e2bc",
+    "buttonColor": "#114452",
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
