@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/music_1776091355146.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/music_1776106253886.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Gabi15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/cover_1776091355146.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/cover_1776106253886.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/slide1_1776091355146.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/slide2_1776091355146.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/slide3_1776091355146.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/slide4_1776091355146.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/slide1_1776106253886.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/slide2_1776106253886.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/slide3_1776106253886.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/slide4_1776106253886.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/folha_1776091355146.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/folha_1776091355146.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/music_1776091355146.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/folha_1776106253886.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/folha_1776106253886.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Gabi15Anos/music_1776106253886.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -40,14 +40,14 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Como Chegar",
       "icone": "fa-solid fa-location-dot",
-      "conteudo": "https://maps.app.goo.gl/SnnsSJybRaPz2X4fA"
+      "conteudo": "https://maps.app.goo.gl/SjM8MV5yQoQhmyX69?g_st=iw"
     },
     {
       "tipoAcao": "RSVP",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "5541984122328",
+      "whatsapp": "5541996643094",
       "rsvpConfig": {
         "exibirNome": true,
         "exibirWhatsapp": false,
