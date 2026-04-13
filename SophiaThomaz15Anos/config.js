@@ -3,14 +3,14 @@ window.config = {
     "tipo": "Aniversário",
     "nome": "Sophia Thomaz",
     "idade": 15,
-    "data": "62026-12-13",
+    "data": "2026-12-13",
     "hora": "18:00",
     "endereco": ""
   },
   "convite": {
     "paletaCores": "Dourado, Verde, Tiffany, Azul Claro",
     "tema": "Jasmine (Alladin)",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775928003555.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1776088733062.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "SophiaThomaz15Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/cover_1775928003555.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/cover_1776088733062.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide1_1775928003555.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide2_1775928003555.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide3_1775928003555.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide4_1775928003555.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide5_1775928003555.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide1_1776088733062.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide2_1776088733062.jpg",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide3_1776088733062.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide4_1776088733062.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide5_1776088733062.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775928003555.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1775928003555.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1775928003555.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1776088733062.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1776088733062.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1776088733062.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "2": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Jasmine%20(Alladin)%20Sophia%20Convite%2015%20Anos%20%20(7)_1775928003555.jpg"
+      "2": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Jasmine%20(Alladin)%20Sophia%20Convite%2015%20Anos%20%20(11)_1776088733062.jpg"
     }
   },
   "botoes": [
@@ -57,7 +57,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Jasmine%20(Alladin)%20Sophia%20Convite%2015%20Anos%20%20(7)_1775928003555.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Jasmine%20(Alladin)%20Sophia%20Convite%2015%20Anos%20%20(11)_1776088733062.jpg"
     },
     {
       "tipoAcao": "RSVP",
