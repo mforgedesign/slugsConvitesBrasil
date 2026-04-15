@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1776259904943.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1776262076714.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Manuella15Anos",
@@ -21,11 +21,11 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/cover_1776259904943.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/cover_1776262076714.png",
     "aberturaSlides": [],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1776259904943.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1776259904943.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1776259904943.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1776262076714.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1776262076714.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1776262076714.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -62,6 +62,13 @@ window.config = {
         "exibirWhatsapp": false,
         "exibirAcompanhantes": false
       }
+    },
+    {
+      "tipoAcao": "Link",
+      "tipoVisual": "css",
+      "titulo": "Galeria de Fotos",
+      "icone": "fa-solid fa-star",
+      "conteudo": "https://soft-semifreddo-6f60fd.netlify.app/"
     }
   ],
   "upsell": {
