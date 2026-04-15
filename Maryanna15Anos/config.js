@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/music_1776266566872.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/music_1776291126291.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Maryanna15Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/cover_1776266566872.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/cover_1776291126291.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide1_1776266566872.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide2_1776266566872.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide3_1776266566872.png",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide4_1776266566872.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide5_1776266566872.png"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide1_1776291126291.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide2_1776291126291.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide3_1776291126291.png",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide4_1776291126291.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide5_1776291126291.png"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/folha_1776266566872.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/folha_1776266566872.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/music_1776266566872.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/folha_1776291126291.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/folha_1776291126291.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/music_1776291126291.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/Maryanna%20%20Convite%20Azul%20Serenity%20(3)_1776266566872.jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/Maryanna%20%20Convite%20Azul%20Serenity%20(3)_1776291126291.jpg"
     }
   },
   "botoes": [
@@ -50,7 +50,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/Maryanna%20%20Convite%20Azul%20Serenity%20(3)_1776266566872.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/Maryanna%20%20Convite%20Azul%20Serenity%20(3)_1776291126291.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
@@ -78,7 +78,7 @@ window.config = {
     "lembrete": true
   },
   "config": {
-    "exibirMarcaDagua": true,
+    "exibirMarcaDagua": false,
     "cronometro": false,
     "buttonColor": "#45aad7",
     "buttonSize": 1,
