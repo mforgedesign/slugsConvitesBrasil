@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/music_1776259356792.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/music_1776260920400.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Voce-E-Meu-Convidado-Especial",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/cover_1776259356792.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/cover_1776260920400.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/slide1_1776259356792.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/slide1_1776260920400.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/folha_1776259356792.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/folha_1776259356792.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/music_1776259356792.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/folha_1776260920400.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/folha_1776260920400.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Voce-E-Meu-Convidado-Especial/music_1776260920400.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
