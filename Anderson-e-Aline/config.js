@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Branco e Dourado",
     "tema": "Salão Elegante",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/music_1776705410422.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/music_1776707065808.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Anderson-e-Aline",
@@ -21,15 +21,15 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/cover_1776705410422.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/cover_1776707065808.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/slide1_1776705410422.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/slide2_1776705410422.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/slide3_1776705410422.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/slide1_1776707065808.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/slide2_1776707065808.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/slide3_1776707065808.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/folha_1776705410422.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/folha_1776705410422.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/music_1776705410422.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/folha_1776707065808.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/folha_1776707065808.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Anderson-e-Aline/music_1776707065808.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
