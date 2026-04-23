@@ -4,13 +4,13 @@ window.config = {
     "nome": "Mariana",
     "idade": 15,
     "data": "2026-05-31",
-    "hora": "16:00",
+    "hora": "17:00",
     "endereco": ""
   },
   "convite": {
     "paletaCores": "Prata, Azul escuro e Preto",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/music_1776710466781.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/music_1776958925495.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Mariana-15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/cover_1776710466781.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/cover_1776958925495.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide1_1776710466781.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide2_1776710466781.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide3_1776710466781.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide4_1776710466781.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide1_1776958925495.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide2_1776958925495.jpg",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide3_1776958925495.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide4_1776958925495.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/folha_1776710466781.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/folha_1776710466781.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/music_1776710466781.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/folha_1776958925495.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/folha_1776958925495.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/music_1776958925495.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -45,7 +45,7 @@ window.config = {
     {
       "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
-      "titulo": "Dicas de Presente",
+      "titulo": "Sugestões de Presente",
       "icone": "fa-solid fa-gift",
       "conteudo": "<div class=\"text-left\">\n\n  <!-- GRID DE ITENS -->\n  <div class=\"grid grid-cols-2 gap-3 mb-6\">\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-spray-can-sparkles text-blue-200 text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium text-blue-100\">\n        Perfumes\n      </span>\n    </div>\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-pump-soap text-blue-200 text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium text-blue-100\">\n        Creme<br>Corporal\n      </span>\n    </div>\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-wand-magic-sparkles text-blue-200 text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium text-blue-100\">\n        Maquiagem\n      </span>\n    </div>\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-regular fa-gem text-blue-200 text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium text-blue-100\">\n        Acessórios<br>(Prata)\n      </span>\n    </div>\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-cross text-blue-200 text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium text-blue-100\">\n        Camiseta<br>Católica (M)\n      </span>\n    </div>\n\n    <div class=\"bg-white/5 p-3 rounded-xl border border-white/10 flex items-center gap-3 hover:bg-white/10 transition-all hover:scale-105\">\n      <i class=\"fa-solid fa-shirt text-blue-200 text-xl drop-shadow-md\"></i>\n      <span class=\"text-[10px] sm:text-xs leading-tight font-medium text-blue-100\">\n        Moletom<br>(G)\n      </span>\n    </div>\n\n  </div>\n\n  <!-- TEXTO -->\n  <div class=\"bg-black/40 p-4 rounded-xl border border-white/20 mb-4 text-center relative overflow-hidden\">\n    <div class=\"absolute inset-0 bg-white/5 animate-pulse\"></div>\n\n    <p class=\"text-[11px] text-blue-200 leading-relaxed relative z-10\">\n      Sua presença é o meu maior presente!<br>\n      No entanto, caso deseje me presentear com qualquer contribuição via Pix:\n    </p>\n\n    <p class=\"text-[10px] text-stone-300 mt-3 uppercase tracking-widest relative z-10\">\n      Chave PIX (Celular)\n    </p>\n\n    <p class=\"font-bold text-lg text-white select-all tracking-wider relative z-10\">\n      11994654800\n    </p>\n\n    <p class=\"text-[10px] text-blue-300 mt-1 relative z-10\">\n      Mariana Ferreira Aquino\n    </p>\n  </div>\n\n  <!-- BOTÃO -->\n  <button onclick=\"navigator.clipboard.writeText('11994654800'); alert('Chave Pix copiada!');\"\n    class=\"w-full bg-gradient-to-r from-slate-500 to-blue-900 hover:brightness-110 text-white font-bold py-3.5 rounded-xl transition-all shadow-[0_0_15px_rgba(30,58,138,0.4)] flex items-center justify-center gap-2 uppercase text-xs tracking-widest relative overflow-hidden group\">\n    \n    <span class=\"relative z-10 flex items-center gap-2\">\n      Copiar Chave Pix\n      <i class=\"fa-regular fa-copy group-hover:scale-110 transition-transform\"></i>\n    </span>\n\n    <div class=\"absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300\"></div>\n  </button>\n\n</div>"
     },
