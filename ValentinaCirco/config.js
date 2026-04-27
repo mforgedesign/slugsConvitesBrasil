@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/music_1777299997102.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/music_1777300080565.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "ValentinaCirco",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/cover_1777299997102.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/cover_1777300080565.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/slide1_1777299997102.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/slide1_1777300080565.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/folha_1777299997102.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/folha_1777299997102.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/music_1777299997102.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/folha_1777300080565.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/folha_1777300080565.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/music_1777300080565.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -74,7 +74,7 @@ window.config = {
   "config": {
     "exibirMarcaDagua": false,
     "cronometro": false,
-    "buttonColor": "#0c2b71",
+    "buttonColor": "#eb5aa7",
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
