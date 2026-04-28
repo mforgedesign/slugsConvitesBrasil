@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/music_1777310071766.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/music_1777396678982.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Teca-Anos60",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/cover_1777310071766.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/cover_1777396678982.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/slide1_1777310071766.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/slide1_1777396678982.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/folha_1777310071766.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/folha_1777310071766.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/music_1777310071766.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/folha_1777396678982.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/folha_1777396678982.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/music_1777396678982.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -54,16 +54,11 @@ window.config = {
       "conteudo": "<div class=\"space-y-3\">\n\n  <!-- Dress Code -->\n  <div class=\"flex gap-4 items-center bg-white/5 p-4 rounded-xl border border-white/10 hover:bg-white/10 transition-colors group\">\n    <div class=\"w-12 h-12 rounded-full bg-white/10 flex items-center justify-center shrink-0 border border-white/20 shadow-[0_0_10px_rgba(255,255,255,0.1)] group-hover:bg-white/20 transition-colors\">\n      <i class=\"fa-solid fa-shirt text-white text-xl\"></i>\n    </div>\n    <div>\n      <h3 class=\"font-bold text-white text-sm mb-0.5 tracking-wide\">Dress Code</h3>\n      <p class=\"text-xs text-stone-300 leading-relaxed\">Usar roupa anos 60.</p>\n    </div>\n  </div>\n\n  <!-- Pontualidade -->\n  <div class=\"flex gap-4 items-center bg-white/5 p-4 rounded-xl border border-white/10 hover:bg-white/10 transition-colors group\">\n    <div class=\"w-12 h-12 rounded-full bg-white/10 flex items-center justify-center shrink-0 border border-white/20 shadow-[0_0_10px_rgba(255,255,255,0.1)] group-hover:bg-white/20 transition-colors\">\n      <i class=\"fa-regular fa-clock text-white text-xl\"></i>\n    </div>\n    <div>\n      <h3 class=\"font-bold text-white text-sm mb-0.5 tracking-wide\">A Pontualidade é um Carinho</h3>\n      <p class=\"text-xs text-stone-300 leading-relaxed\">Chegue no horário combinado para não perder nenhum detalhe da nossa mágica história.</p>\n    </div>\n  </div>\n\n  <!-- Confirmação -->\n  <div class=\"flex gap-4 items-center bg-white/5 p-4 rounded-xl border border-white/10 hover:bg-white/10 transition-colors group\">\n    <div class=\"w-12 h-12 rounded-full bg-white/10 flex items-center justify-center shrink-0 border border-white/20 shadow-[0_0_10px_rgba(255,255,255,0.1)] group-hover:bg-white/20 transition-colors\">\n      <i class=\"fa-regular fa-calendar-check text-white text-xl\"></i>\n    </div>\n    <div>\n      <h3 class=\"font-bold text-white text-sm mb-0.5 tracking-wide\">Confirmação de Presença</h3>\n      <p class=\"text-xs text-stone-300 leading-relaxed\">\n        Ao confirmar a sua presença, digite o nome de acordo com o convite enviado.\n      </p>\n    </div>\n  </div>\n\n  <!-- Celebração -->\n  <div class=\"flex gap-4 items-center bg-white/5 p-4 rounded-xl border border-white/10 hover:bg-white/10 transition-colors group\">\n    <div class=\"w-12 h-12 rounded-full bg-white/10 flex items-center justify-center shrink-0 border border-white/20 shadow-[0_0_10px_rgba(255,255,255,0.1)] group-hover:bg-white/20 transition-colors\">\n      <i class=\"fa-solid fa-heart text-white text-xl animate-pulse\"></i>\n    </div>\n    <div>\n      <h3 class=\"font-bold text-white text-sm mb-0.5 tracking-wide\">Vamos Celebrar Juntos</h3>\n      <p class=\"text-xs text-stone-300 leading-relaxed\">\n        Deixe a alegria guiar a sua noite! Já estou ansiosa para criar memórias inesquecíveis!\n      </p>\n    </div>\n  </div>\n\n  <!-- Despedida -->\n  <div class=\"flex gap-4 items-center bg-white/5 p-4 rounded-xl border border-white/10 hover:bg-white/10 transition-colors group\">\n    <div class=\"w-12 h-12 rounded-full bg-white/10 flex items-center justify-center shrink-0 border border-white/20 shadow-[0_0_10px_rgba(255,255,255,0.1)] group-hover:bg-white/20 transition-colors\">\n      <i class=\"fa-solid fa-cake-candles text-white text-xl\"></i>\n    </div>\n    <div>\n      <h3 class=\"font-bold text-white text-sm mb-0.5 tracking-wide\">Um Doce Encontro</h3>\n      <p class=\"text-xs text-stone-300 leading-relaxed\">\n        Não se despeça sem me dar um abraço.\n      </p>\n    </div>\n  </div>\n\n</div>"
     },
     {
-      "tipoAcao": "RSVP",
+      "tipoAcao": "Link",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "5531992017482",
-      "rsvpConfig": {
-        "exibirNome": true,
-        "exibirWhatsapp": false,
-        "exibirAcompanhantes": false
-      }
+      "conteudo": "https://docs.google.com/forms/d/e/1FAIpQLScmmCOkRQiT6Z5TwnOPi6XMnSjgNAM4Zn6rIAC3P8i7hyHNMQ/viewform?usp=publish-editor"
     }
   ],
   "upsell": {
