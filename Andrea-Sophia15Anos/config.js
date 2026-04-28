@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/music_1777307111479.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/music_1777394021871.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Andrea-Sophia15Anos",
@@ -21,18 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/cover_1777307111479.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/cover_1777394021871.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide1_1777307111479.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide2_1777307111479.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide3_1777307111479.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide4_1777307111479.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide5_1777307111479.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide6_1777307111479.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide1_1777394021871.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide2_1777394021871.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide3_1777394021871.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide4_1777394021871.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide5_1777394021871.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/folha_1777307111479.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/folha_1777307111479.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/music_1777307111479.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/folha_1777394021871.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/folha_1777394021871.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/music_1777394021871.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -49,7 +48,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "<style>\n:root{\n  --azul:#0c1b3a;\n  --azul-escuro:#070f22;\n  --dourado:#d4af37;\n  --vermelho:#7a0f1a;\n}\n\n.gift-section{\n  background: radial-gradient(circle at top, rgba(212,175,55,0.15), transparent 60%),\n              linear-gradient(180deg, var(--azul) 0%, var(--azul-escuro) 100%);\n  padding:16px;\n  border-radius:20px;\n  position:relative;\n  overflow:hidden;\n}\n\n/* brilho animado */\n.gift-section::before{\n  content:\"\";\n  position:absolute;\n  inset:0;\n  background:linear-gradient(120deg, transparent, rgba(212,175,55,0.25), transparent);\n  animation:shine 6s linear infinite;\n}\n\n@keyframes shine{\n  0%{transform:translateX(-100%)}\n  100%{transform:translateX(100%)}\n}\n\n/* grid */\n.gift-grid{\n  display:grid;\n  grid-template-columns:1fr 1fr;\n  gap:12px;\n  position:relative;\n  z-index:2;\n}\n\n/* cards */\n.gift-card{\n  background:rgba(255,255,255,0.05);\n  border:1px solid rgba(212,175,55,0.25);\n  border-radius:18px;\n  padding:14px;\n  display:flex;\n  flex-direction:column;\n  align-items:center;\n  justify-content:center;\n  text-align:center;\n  backdrop-filter: blur(10px);\n  box-shadow:0 8px 25px rgba(0,0,0,0.4);\n  transition: all .4s ease;\n  animation:fadeUp .8s ease forwards;\n  opacity:0;\n}\n\n/* animação em sequência */\n.gift-card:nth-child(1){animation-delay:.2s}\n.gift-card:nth-child(2){animation-delay:.4s}\n.gift-card:nth-child(3){animation-delay:.6s}\n.gift-card:nth-child(4){animation-delay:.8s}\n\n@keyframes fadeUp{\n  from{opacity:0; transform:translateY(20px) scale(.95)}\n  to{opacity:1; transform:translateY(0) scale(1)}\n}\n\n/* ícones */\n.gift-card i{\n  font-size:22px;\n  margin-bottom:8px;\n  color:var(--dourado);\n  text-shadow:0 0 10px rgba(212,175,55,0.6);\n}\n\n/* texto */\n.gift-card span{\n  font-size:11px;\n  font-weight:500;\n  color:#f1f1f1;\n  letter-spacing:.5px;\n}\n\n/* detalhe vermelho elegante */\n.gift-card::after{\n  content:\"\";\n  position:absolute;\n  bottom:0;\n  left:0;\n  width:100%;\n  height:2px;\n  background:linear-gradient(90deg, transparent, var(--vermelho), transparent);\n  opacity:.6;\n}\n</style>\n\n<div class=\"gift-section\">\n  <div class=\"gift-grid\">\n\n    <div class=\"gift-card\">\n      <i class=\"fa-solid fa-shoe-prints\"></i>\n      <span>Calçados<br>37/38</span>\n    </div>\n\n    <div class=\"gift-card\">\n      <i class=\"fa-solid fa-shirt\"></i>\n      <span>Camisa do<br>Bahia</span>\n    </div>\n\n    <div class=\"gift-card\">\n      <i class=\"fa-solid fa-spray-can-sparkles\"></i>\n      <span>Maquiagens /<br>Perfumaria</span>\n    </div>\n\n    <div class=\"gift-card\">\n      <i class=\"fa-regular fa-gem\"></i>\n      <span>Joias</span>\n    </div>\n\n  </div>\n</div>"
+      "conteudo": "<style>\n:root{\n  --azul:#0c1b3a;\n  --azul-escuro:#070f22;\n  --dourado:#d4af37;\n  --vermelho:#7a0f1a;\n}\n\n.gift-section{\n  background: radial-gradient(circle at top, rgba(212,175,55,0.15), transparent 60%),\n              linear-gradient(180deg, var(--azul) 0%, var(--azul-escuro) 100%);\n  padding:16px;\n  border-radius:20px;\n  position:relative;\n  overflow:hidden;\n}\n\n/* brilho animado */\n.gift-section::before{\n  content:\"\";\n  position:absolute;\n  inset:0;\n  background:linear-gradient(120deg, transparent, rgba(212,175,55,0.25), transparent);\n  animation:shine 6s linear infinite;\n}\n\n@keyframes shine{\n  0%{transform:translateX(-100%)}\n  100%{transform:translateX(100%)}\n}\n\n/* grid */\n.gift-grid{\n  display:grid;\n  grid-template-columns:1fr 1fr;\n  gap:12px;\n  position:relative;\n  z-index:2;\n}\n\n/* cards */\n.gift-card{\n  background:rgba(255,255,255,0.05);\n  border:1px solid rgba(212,175,55,0.25);\n  border-radius:18px;\n  padding:14px;\n  display:flex;\n  flex-direction:column;\n  align-items:center;\n  justify-content:center;\n  text-align:center;\n  backdrop-filter: blur(10px);\n  box-shadow:0 8px 25px rgba(0,0,0,0.4);\n  transition: all .4s ease;\n  animation:fadeUp .8s ease forwards;\n  opacity:0;\n}\n\n/* animação em sequência */\n.gift-card:nth-child(1){animation-delay:.2s}\n.gift-card:nth-child(2){animation-delay:.4s}\n.gift-card:nth-child(3){animation-delay:.6s}\n.gift-card:nth-child(4){animation-delay:.8s}\n\n@keyframes fadeUp{\n  from{opacity:0; transform:translateY(20px) scale(.95)}\n  to{opacity:1; transform:translateY(0) scale(1)}\n}\n\n/* ícones */\n.gift-card i{\n  font-size:22px;\n  margin-bottom:8px;\n  color:var(--dourado);\n  text-shadow:0 0 10px rgba(212,175,55,0.6);\n}\n\n/* texto */\n.gift-card span{\n  font-size:11px;\n  font-weight:500;\n  color:#f1f1f1;\n  letter-spacing:.5px;\n}\n\n/* detalhe vermelho elegante */\n.gift-card::after{\n  content:\"\";\n  position:absolute;\n  bottom:0;\n  left:0;\n  width:100%;\n  height:2px;\n  background:linear-gradient(90deg, transparent, var(--vermelho), transparent);\n  opacity:.6;\n}\n</style>\n\n<div class=\"gift-section\">\n  <div class=\"gift-grid\">\n\n    <div class=\"gift-card\">\n      <i class=\"fa-solid fa-shoe-prints\"></i>\n      <span>Calçados<br>37/38</span>\n    </div>\n\n    <div class=\"gift-card\">\n      <i class=\"fa-solid fa-shirt\"></i>\n      <span>Roupas<br>M/G 40/42</span>\n    </div>\n\n    <div class=\"gift-card\">\n      <i class=\"fa-solid fa-spray-can-sparkles\"></i>\n      <span>Maquiagens /<br>Perfumaria</span>\n    </div>\n\n    <div class=\"gift-card\">\n      <i class=\"fa-regular fa-gem\"></i>\n      <span>Joias /<br>Acessórios</span>\n    </div>\n\n  </div>\n</div>"
     },
     {
       "tipoAcao": "PopupHtml",
