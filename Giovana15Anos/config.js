@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/music_1777394823479.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/music_1777395240280.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Giovana15Anos",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/cover_1777394823479.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/cover_1777395240280.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide1_1777394823479.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide2_1777394823479.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide3_1777394823479.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide4_1777394823479.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide5_1777394823479.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide1_1777395240280.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide2_1777395240280.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide3_1777395240280.jpg",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide4_1777395240280.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/slide5_1777395240280.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/folha_1777394823479.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/folha_1777394823479.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/music_1777394823479.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/folha_1777395240280.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/folha_1777395240280.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Giovana15Anos/music_1777395240280.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -58,16 +58,11 @@ window.config = {
       "conteudo": "<div class=\"space-y-3 px-1\">\n\n  <!-- ✦ ITEM ✦ -->\n  <div class=\"item\">\n    <div class=\"icon\"><i class=\"fa-regular fa-clock\"></i></div>\n    <div>\n      <h3>A Pontualidade é um Carinho</h3>\n      <p>Chegue no horário combinado para não perder nenhum detalhe deste momento especial.</p>\n    </div>\n  </div>\n\n  <div class=\"item\">\n    <div class=\"icon\"><i class=\"fa-regular fa-calendar-check\"></i></div>\n    <div>\n      <h3>Confirmação de Presença</h3>\n      <p>Gentileza confirmar sua presença até o dia <strong>17 de julho de 2026</strong>.</p>\n    </div>\n  </div>\n\n  <div class=\"item\">\n    <div class=\"icon heart\"><i class=\"fa-solid fa-heart\"></i></div>\n    <div>\n      <h3>Celebre Conosco</h3>\n      <p>Permita-se viver cada instante com leveza e alegria ao nosso lado.</p>\n    </div>\n  </div>\n\n  <div class=\"item\">\n    <div class=\"icon\"><i class=\"fa-solid fa-cake-candles\"></i></div>\n    <div>\n      <h3>Um Doce Encontro</h3>\n      <p>Antes de partir, compartilhe conosco um abraço e um momento à mesa.</p>\n    </div>\n  </div>\n\n  <!-- ✦ DRESS CODE PREMIUM ✦ -->\n  <div class=\"dress\">\n    <div class=\"glow\"></div>\n    <h3>Dress Code</h3>\n    <p>\n      Traje esporte fino.<br><br>\n      <span class=\"alert-blue\">NÃO UTILIZAR ROUPA AZUL</span><br><br>\n      Para preservar a harmonia estética da celebração, contamos com sua colaboração.\n    </p>\n  </div>\n\n</div>\n\n<style>\n:root{\n  --blue-deep:#0b1f3a;\n  --blue-main:#1e3a8a;\n  --blue-soft:#3b82f6;\n  --silver:#cbd5e1;\n}\n\n/* ✦ ITEM ✦ */\n.item{\n  display:flex;\n  gap:14px;\n  align-items:center;\n  padding:16px;\n  border-radius:18px;\n  background:linear-gradient(145deg, rgba(30,58,138,0.18), rgba(255,255,255,0.04));\n  border:1px solid rgba(255,255,255,0.15);\n  backdrop-filter: blur(10px);\n  position:relative;\n  overflow:hidden;\n  animation: floatSoft 7s ease-in-out infinite;\n}\n\n.item:nth-child(2){animation-delay:1s}\n.item:nth-child(3){animation-delay:2s}\n.item:nth-child(4){animation-delay:3s}\n\n.item::after{\n  content:\"\";\n  position:absolute;\n  inset:0;\n  background:linear-gradient(120deg, transparent, rgba(255,255,255,0.12), transparent);\n  animation: shine 6s infinite;\n}\n\n/* ✦ ICON ✦ */\n.icon{\n  width:46px;\n  height:46px;\n  border-radius:50%;\n  display:flex;\n  align-items:center;\n  justify-content:center;\n  background:rgba(255,255,255,0.08);\n  border:1px solid rgba(255,255,255,0.2);\n  box-shadow:0 0 12px rgba(255,255,255,0.15);\n}\n\n.icon i{\n  color:var(--silver);\n  font-size:18px;\n}\n\n.heart{\n  animation: pulseHeart 2.5s infinite;\n}\n\n/* ✦ TEXT ✦ */\n.item h3{\n  font-size:13px;\n  color:white;\n  font-weight:600;\n  margin-bottom:2px;\n  letter-spacing:.5px;\n}\n\n.item p{\n  font-size:11px;\n  color:#cbd5e1;\n  line-height:1.4;\n}\n\n/* ✦ DRESS CODE ✦ */\n.dress{\n  margin-top:10px;\n  padding:18px;\n  border-radius:20px;\n  text-align:center;\n  background:linear-gradient(160deg, rgba(15,23,42,0.95), rgba(30,58,138,0.5));\n  border:1px solid rgba(255,255,255,0.25);\n  position:relative;\n  overflow:hidden;\n}\n\n.glow{\n  position:absolute;\n  inset:-120%;\n  background:radial-gradient(circle, rgba(255,255,255,0.25), transparent 60%);\n  animation: ambient 7s infinite;\n}\n\n.dress h3{\n  color:white;\n  font-size:14px;\n  letter-spacing:2px;\n  text-transform:uppercase;\n  margin-bottom:8px;\n}\n\n.dress p{\n  font-size:11px;\n  color:#e2e8f0;\n  line-height:1.5;\n}\n\n/* ✦ ALERTA AZUL ✦ */\n.alert-blue{\n  display:inline-block;\n  padding:6px 12px;\n  border-radius:10px;\n  font-weight:700;\n  letter-spacing:1px;\n  color:#fff;\n  background:linear-gradient(135deg, #1e3a8a, #3b82f6);\n  box-shadow:0 0 12px rgba(59,130,246,0.6);\n  animation: pulseAlert 2s infinite;\n}\n\n/* ✦ ANIMAÇÕES ✦ */\n@keyframes floatSoft{\n  0%,100%{transform:translateY(0)}\n  50%{transform:translateY(-5px)}\n}\n\n@keyframes shine{\n  0%{transform:translateX(-100%);opacity:0}\n  50%{opacity:1}\n  100%{transform:translateX(100%);opacity:0}\n}\n\n@keyframes ambient{\n  0%,100%{opacity:0.3}\n  50%{opacity:0.6}\n}\n\n@keyframes pulseHeart{\n  0%,100%{transform:scale(1)}\n  50%{transform:scale(1.15)}\n}\n\n@keyframes pulseAlert{\n  0%,100%{transform:scale(1); box-shadow:0 0 10px rgba(59,130,246,0.5)}\n  50%{transform:scale(1.05); box-shadow:0 0 18px rgba(59,130,246,0.9)}\n}\n</style>"
     },
     {
-      "tipoAcao": "RSVP",
+      "tipoAcao": "Link",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "5544816198806",
-      "rsvpConfig": {
-        "exibirNome": true,
-        "exibirWhatsapp": false,
-        "exibirAcompanhantes": false
-      }
+      "conteudo": "https://docs.google.com/forms/d/e/1FAIpQLSedYYfOT1fPNndRF7RpDWV7SeZmWi42riAUQOhhuv6RAtxevg/viewform?usp=publish-editor"
     }
   ],
   "upsell": {
