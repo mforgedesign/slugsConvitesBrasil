@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "lilas",
     "tema": "Enrolados",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/music_1777492478618.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/music_1777582815728.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "anajulia15anos",
@@ -21,13 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/cover_1777492478618.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/cover_1777582815728.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/slide1_1777492478618.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/slide1_1777582815728.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/slide2_1777582815728.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/slide3_1777582815728.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/slide4_1777582815728.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/folha_1777492478618.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/folha_1777492478618.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/music_1777492478618.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/folha_1777582815728.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/folha_1777582815728.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/music_1777582815728.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
