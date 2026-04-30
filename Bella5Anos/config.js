@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/music_1777584693972.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/music_1777585086292.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Bella5Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/cover_1777584693972.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/cover_1777585086292.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/slide1_1777584693972.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/slide1_1777585086292.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/folha_1777584693972.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/folha_1777584693972.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/music_1777584693972.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/folha_1777585086292.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/folha_1777585086292.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/music_1777585086292.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/Bella%205%20Anos%20Princesa%20Tiana%20(1)_1777584693972.jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/Bella%205%20Anos%20Princesa%20Tiana%20(1)_1777585086292.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/Bella%205%20Anos%20Princesa%20Tiana%20(1)_1777584693972.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/Bella%205%20Anos%20Princesa%20Tiana%20(1)_1777585086292.jpg"
     },
     {
       "tipoAcao": "Link",
@@ -64,7 +64,7 @@ window.config = {
   "config": {
     "exibirMarcaDagua": false,
     "cronometro": false,
-    "buttonColor": "#0c2b71",
+    "buttonColor": "#a1c9b2",
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
