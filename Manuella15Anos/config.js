@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1776970609141.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1777641737220.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Manuella15Anos",
@@ -21,11 +21,11 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/cover_1776970609141.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/cover_1777641737220.png",
     "aberturaSlides": [],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1776970609141.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1776970609141.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1776970609141.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1777641737220.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/folha_1777641737220.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Manuella15Anos/music_1777641737220.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -42,7 +42,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "<div class=\"gf-grid\">\n\n  <div class=\"gf-card\">\n    <div class=\"gf-icon\"><i class=\"fa-solid fa-shoe-prints\"></i></div>\n    <div>\n      <div class=\"gf-label\">Calçados</div>\n      <div class=\"gf-value\">Nº 36</div>\n    </div>\n  </div>\n\n  <div class=\"gf-card\">\n    <div class=\"gf-icon\"><i class=\"fa-regular fa-gem\"></i></div>\n    <div>\n      <div class=\"gf-label\">Joias</div>\n      <div class=\"gf-value\">Prata</div>\n    </div>\n  </div>\n\n  <div class=\"gf-card\">\n    <div class=\"gf-icon\"><i class=\"fa-solid fa-shirt\"></i></div>\n    <div>\n      <div class=\"gf-label\">Roupas</div>\n      <div class=\"gf-value\">Tam. P</div>\n    </div>\n  </div>\n\n  <div class=\"gf-card\">\n    <div class=\"gf-icon\">\n      <svg class=\"gf-pants\" viewBox=\"0 0 20 22\">\n        <path d=\"M1.5 2C1.5 1.17 2.17 0.5 3 0.5H17C17.83 0.5 18.5 1.17 18.5 2V4.5H1.5V2Z\"/>\n        <path d=\"M1.5 4.5H8.5L10 13L11.5 4.5H18.5L16 21.5H12.5L10 11L7.5 21.5H4L1.5 4.5Z\"/>\n      </svg>\n    </div>\n    <div>\n      <div class=\"gf-label\">Calça</div>\n      <div class=\"gf-value\">Tam. 38</div>\n    </div>\n  </div>\n\n  <!-- NOVOS ITENS -->\n\n  <div class=\"gf-card\">\n    <div class=\"gf-icon\"><i class=\"fa-solid fa-dumbbell\"></i></div>\n    <div>\n      <div class=\"gf-label\">Academia</div>\n      <div class=\"gf-value\">Tam. P</div>\n    </div>\n  </div>\n\n  <div class=\"gf-card\">\n    <div class=\"gf-icon\"><i class=\"fa-solid fa-bed\"></i></div>\n    <div>\n      <div class=\"gf-label\">Pijamas</div>\n      <div class=\"gf-value\">Tam. P</div>\n    </div>\n  </div>\n\n  <div class=\"gf-card\">\n    <div class=\"gf-icon\"><i class=\"fa-solid fa-wand-sparkles\"></i></div>\n    <div>\n      <div class=\"gf-label\">Perfumes</div>\n      <div class=\"gf-value\">Adocicados</div>\n    </div>\n  </div>\n\n  <div class=\"gf-card\">\n    <div class=\"gf-icon\"><i class=\"fa-solid fa-palette\"></i></div>\n    <div>\n      <div class=\"gf-label\">Maquiagem</div>\n      <div class=\"gf-value\">Tons claros</div>\n    </div>\n  </div>\n\n</div>"
+      "conteudo": "<div class=\"text-left px-1\">\n\n  <!-- ✦ GRID PRESENTES ✦ -->\n  <div class=\"grid grid-cols-2 gap-3\">\n\n    <div class=\"card\">\n      <i class=\"fa-solid fa-shoe-prints\"></i>\n      <span>Calçados<br>Nº 36</span>\n    </div>\n\n    <div class=\"card\">\n      <i class=\"fa-regular fa-gem\"></i>\n      <span>Joias<br>Prata</span>\n    </div>\n\n    <div class=\"card\">\n      <i class=\"fa-solid fa-shirt\"></i>\n      <span>Roupas<br>Tam. P</span>\n    </div>\n\n    <div class=\"card\">\n      <i class=\"fa-solid fa-user\"></i>\n      <span>Calça<br>Tam. 38</span>\n    </div>\n\n    <div class=\"card\">\n      <i class=\"fa-solid fa-dumbbell\"></i>\n      <span>Academia<br>Tam. P</span>\n    </div>\n\n    <div class=\"card\">\n      <i class=\"fa-solid fa-bed\"></i>\n      <span>Pijamas<br>Tam. P</span>\n    </div>\n\n    <div class=\"card\">\n      <i class=\"fa-solid fa-spray-can-sparkles\"></i>\n      <span>Perfumes<br>Adocicados</span>\n    </div>\n\n    <div class=\"card\">\n      <i class=\"fa-solid fa-wand-magic-sparkles\"></i>\n      <span>Maquiagem<br>Tons claros</span>\n    </div>\n\n  </div>\n\n</div>\n\n<style>\n:root{\n  --blue-deep:#0f172a;\n  --blue-main:#2563eb;\n  --blue-soft:#60a5fa;\n  --white:#f8fafc;\n}\n\n/* ✦ CARD ✦ */\n.card{\n  background: linear-gradient(145deg, rgba(37,99,235,0.18), rgba(255,255,255,0.7));\n  backdrop-filter: blur(14px);\n  border:1px solid rgba(255,255,255,0.6);\n  border-radius:20px;\n  padding:15px;\n  display:flex;\n  align-items:center;\n  gap:10px;\n  position:relative;\n  overflow:hidden;\n  animation: float 7s ease-in-out infinite;\n}\n\n.card:nth-child(2){animation-delay:1s}\n.card:nth-child(3){animation-delay:2s}\n.card:nth-child(4){animation-delay:3s}\n.card:nth-child(5){animation-delay:4s}\n.card:nth-child(6){animation-delay:5s}\n.card:nth-child(7){animation-delay:6s}\n.card:nth-child(8){animation-delay:7s}\n\n/* brilho suave branco */\n.card::after{\n  content:\"\";\n  position:absolute;\n  inset:0;\n  background:linear-gradient(120deg, transparent, rgba(255,255,255,0.8), transparent);\n  animation: shine 6s infinite;\n}\n\n/* ✦ ÍCONE ✦ */\n.card i{\n  color:var(--blue-main);\n  font-size:18px;\n  text-shadow:0 0 10px rgba(37,99,235,0.4);\n}\n\n/* ✦ TEXTO ✦ */\n.card span{\n  font-size:11px;\n  color:var(--blue-deep);\n  line-height:1.3;\n  font-weight:500;\n}\n\n/* ✦ ANIMAÇÕES ✦ */\n@keyframes float{\n  0%,100%{transform:translateY(0)}\n  50%{transform:translateY(-5px)}\n}\n\n@keyframes shine{\n  0%{transform:translateX(-100%);opacity:0}\n  50%{opacity:1}\n  100%{transform:translateX(100%);opacity:0}\n}\n</style>"
     },
     {
       "tipoAcao": "PopupHtml",
