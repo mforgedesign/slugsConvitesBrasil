@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Pink, Rosé e Prata",
     "tema": "Floral",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1777912758384.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1777913121087.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Sophia-15-Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/cover_1777912758384.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/cover_1777913121087.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/slide1_1777912758384.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/slide1_1777913121087.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1777912758384.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1777912758384.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1777912758384.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1777913121087.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1777913121087.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1777913121087.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -74,7 +74,7 @@ window.config = {
   "config": {
     "exibirMarcaDagua": false,
     "cronometro": true,
-    "buttonColor": "#0c2b71",
+    "buttonColor": "#8c2c48",
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
