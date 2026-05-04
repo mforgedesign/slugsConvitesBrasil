@@ -3,14 +3,14 @@ window.config = {
     "tipo": "Aniversário",
     "nome": "Sophia",
     "idade": 15,
-    "data": "",
-    "hora": "18:00",
+    "data": "2026-08-28",
+    "hora": "18:40",
     "endereco": ""
   },
   "convite": {
     "paletaCores": "Pink, Rosé e Prata",
     "tema": "Floral",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1777913121087.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1777913841093.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Sophia-15-Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/cover_1777913121087.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/cover_1777913841093.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/slide1_1777913121087.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/slide1_1777913841093.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1777913121087.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1777913121087.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1777913121087.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1777913841093.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1777913841093.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1777913841093.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
