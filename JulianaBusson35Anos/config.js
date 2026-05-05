@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul e Dourado",
     "tema": "Bridgerton",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778001362051.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778003294820.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "JulianaBusson35Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/cover_1778001362051.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/cover_1778003294820.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide1_1778001362051.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide2_1778001362051.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide3_1778001362051.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide4_1778001362051.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide5_1778001362051.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide1_1778003294820.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide2_1778003294820.jpg",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide3_1778003294820.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide4_1778003294820.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide5_1778003294820.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778001362051.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778001362051.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778001362051.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778003294820.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778003294820.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778003294820.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778001362051.jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778003294820.jpg"
     }
   },
   "botoes": [
@@ -50,19 +50,14 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778001362051.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778003294820.jpg"
     },
     {
-      "tipoAcao": "RSVP",
+      "tipoAcao": "Link",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "558587320447",
-      "rsvpConfig": {
-        "exibirNome": true,
-        "exibirWhatsapp": false,
-        "exibirAcompanhantes": false
-      }
+      "conteudo": "https://docs.google.com/forms/d/e/1FAIpQLSda_9gy_ejJbD83BouLdR0ge69gFBUPLQp7_uT4ypoNZT8zBA/viewform?usp=dialog"
     }
   ],
   "upsell": {
