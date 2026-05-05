@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/music_1778004210411.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/music_1778005290967.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "ManuBarossi15Anos",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/cover_1778004210411.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/cover_1778005290967.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide1_1778004210411.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide2_1778004210411.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide3_1778004210411.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide4_1778004210411.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide5_1778004210411.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide1_1778005290967.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide2_1778005290967.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide3_1778005290967.jpg",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide4_1778005290967.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide5_1778005290967.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/folha_1778004210411.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/folha_1778004210411.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/music_1778004210411.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/folha_1778005290967.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/folha_1778005290967.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/music_1778005290967.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -59,7 +59,7 @@ window.config = {
   "upsell": {
     "galeriaFotos": false,
     "saveTheDate": false,
-    "lembrete": false
+    "lembrete": true
   },
   "config": {
     "exibirMarcaDagua": false,
