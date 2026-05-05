@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul e Dourado",
     "tema": "Bridgerton",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778003565074.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778005431888.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "JulianaBusson35Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/cover_1778003565074.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/cover_1778005431888.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide1_1778003565074.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide2_1778003565074.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide3_1778003565074.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide4_1778003565074.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide5_1778003565074.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide1_1778005431888.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide2_1778005431888.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide3_1778005431888.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide4_1778005431888.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide5_1778005431888.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778003565074.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778003565074.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778003565074.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778005431888.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778005431888.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778005431888.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778003565074.jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778005431888.jpg"
     }
   },
   "botoes": [
@@ -50,7 +50,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778003565074.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778005431888.jpg"
     },
     {
       "tipoAcao": "RSVP",
