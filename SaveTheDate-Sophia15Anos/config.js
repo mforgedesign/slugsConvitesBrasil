@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/music_1778274788133.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/music_1778275008215.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "SaveTheDate-Sophia15Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/cover_1778274788133.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/cover_1778275008215.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide1_1778274788133.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide2_1778274788133.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide3_1778274788133.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide4_1778274788133.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide5_1778274788133.jpg"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide1_1778275008215.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide2_1778275008215.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide3_1778275008215.jpg",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide4_1778275008215.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide5_1778275008215.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/folha_1778274788133.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/folha_1778274788133.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/music_1778274788133.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/folha_1778275008215.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/folha_1778275008215.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/music_1778275008215.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/presentes_1772376605548_1778274788133.jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/presentes_1772376605548_1778275008215.jpg"
     }
   },
   "botoes": [
@@ -50,7 +50,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/presentes_1772376605548_1778274788133.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/presentes_1772376605548_1778275008215.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
@@ -68,7 +68,7 @@ window.config = {
   "config": {
     "exibirMarcaDagua": false,
     "cronometro": false,
-    "buttonColor": "#0c2b71",
+    "buttonColor": "#dd3636",
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
