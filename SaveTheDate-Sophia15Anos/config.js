@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/music_1778276274654.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/music_1778276296762.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "SaveTheDate-Sophia15Anos",
@@ -21,17 +21,18 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/cover_1778276274654.png",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/cover_1778276296762.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide1_1778276274654.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide2_1778276274654.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide1_1778276296762.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide2_1778276296762.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/slide3_1778276296762.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/folha_1778276274654.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/folha_1778276274654.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/music_1778276274654.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/folha_1778276296762.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/folha_1778276296762.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/music_1778276296762.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/presentes_1772376605548_1778276274654.jpg"
+      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/presentes_1772376605548_1778276296762.jpg"
     }
   },
   "botoes": [
@@ -47,7 +48,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/presentes_1772376605548_1778276274654.jpg"
+      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SaveTheDate-Sophia15Anos/presentes_1772376605548_1778276296762.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
