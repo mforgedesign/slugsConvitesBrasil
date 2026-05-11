@@ -2,7 +2,7 @@ window.config = {
   "evento": {
     "tipo": "Aniversário",
     "nome": "Antonella",
-    "idade": 15,
+    "idade": 1,
     "data": "2026-06-20",
     "hora": "18:00",
     "endereco": ""
@@ -10,24 +10,24 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/music_1778500259639.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/music_1778500292671.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Antonella1Ano",
     "seo": {
-      "pageTitle": "Antonella | 15 Anos",
-      "ogTitle": "Você está convidado para os 15 anos da Antonella!",
+      "pageTitle": "Antonella | 1 Ano",
+      "ogTitle": "Você está convidado para o 1 aninho da Antonella!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/cover_1778500259639.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/cover_1778500292671.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/slide1_1778500259639.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/slide1_1778500292671.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/folha_1778500259639.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/folha_1778500259639.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/music_1778500259639.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/folha_1778500292671.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/folha_1778500292671.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Antonella1Ano/music_1778500292671.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
