@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/music_1778608159107.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Jane-Sergio-BodasDeOuro",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/cover_1778607064127.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/cover_1778608159107.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/slide1_1778607064127.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/slide1_1778608159107.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/folha_1778607064127.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/folha_1778607064127.jpg",
-    "musica": "",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/folha_1778608159107.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/folha_1778608159107.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/music_1778608159107.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -44,7 +44,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "Aguardando dados..."
+      "conteudo": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:wght@300;400;500;600&display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n\n<style>\n*{\n  box-sizing:border-box;\n  margin:0;\n  padding:0;\n}\n\n.gw-wrap{\n  position:relative;\n  padding:24px 18px;\n  font-family:'Cormorant Garamond',serif;\n}\n\n/* fundo elegante */\n.gw-card{\n  position:relative;\n  overflow:hidden;\n\n  background:\n    linear-gradient(\n      145deg,\n      #fffdf8,\n      #f8f4ea\n    );\n\n  border:1px solid rgba(212,175,55,.22);\n\n  border-radius:28px;\n\n  padding:28px 22px;\n\n  box-shadow:\n    0 10px 35px rgba(212,175,55,.08),\n    inset 0 1px 0 rgba(255,255,255,.8);\n\n  backdrop-filter:blur(8px);\n}\n\n/* brilho */\n.gw-card::before{\n  content:'';\n  position:absolute;\n  inset:0;\n\n  background:\n    radial-gradient(circle at top right,\n    rgba(212,175,55,.10),\n    transparent 45%);\n\n  pointer-events:none;\n}\n\n/* ornamentos */\n.gw-leaf{\n  position:absolute;\n  color:rgba(212,175,55,.16);\n  font-size:22px;\n}\n\n.gw-leaf.top{\n  top:16px;\n  right:18px;\n}\n\n.gw-leaf.bottom{\n  bottom:16px;\n  left:18px;\n  transform:rotate(180deg);\n}\n\n/* título */\n.gw-header{\n  position:relative;\n  z-index:2;\n  text-align:center;\n  margin-bottom:24px;\n}\n\n.gw-header span{\n  display:block;\n  font-size:12px;\n  letter-spacing:.25em;\n  text-transform:uppercase;\n  color:#bfa15b;\n  margin-bottom:8px;\n}\n\n.gw-header h2{\n  font-family:'Cinzel',serif;\n  font-size:25px;\n  color:#8b6b2e;\n  line-height:1.4;\n  letter-spacing:.06em;\n}\n\n.gw-header p{\n  margin-top:10px;\n  color:#8b7355;\n  font-size:16px;\n  line-height:1.6;\n}\n\n/* lista */\n.gw-list{\n  position:relative;\n  z-index:2;\n\n  display:grid;\n  gap:14px;\n}\n\n/* item */\n.gw-item{\n  display:flex;\n  align-items:center;\n  gap:14px;\n\n  padding:16px 18px;\n\n  border-radius:18px;\n\n  background:\n    linear-gradient(\n      145deg,\n      rgba(255,255,255,.92),\n      rgba(248,244,234,.85)\n    );\n\n  border:1px solid rgba(212,175,55,.12);\n\n  box-shadow:\n    0 4px 14px rgba(0,0,0,.03);\n\n  transition:.25s ease;\n}\n\n.gw-item:active{\n  transform:scale(.98);\n}\n\n/* ícone */\n.gw-icon{\n  width:46px;\n  height:46px;\n  border-radius:14px;\n\n  display:flex;\n  align-items:center;\n  justify-content:center;\n\n  background:\n    linear-gradient(\n      145deg,\n      rgba(212,175,55,.20),\n      rgba(255,255,255,.9)\n    );\n\n  color:#b8913f;\n  font-size:18px;\n\n  flex-shrink:0;\n}\n\n/* textos */\n.gw-title{\n  font-family:'Cinzel',serif;\n  font-size:13px;\n  letter-spacing:.12em;\n  text-transform:uppercase;\n  color:#9c7a36;\n  margin-bottom:3px;\n}\n\n.gw-text{\n  color:#7a6a4d;\n  font-size:16px;\n  line-height:1.5;\n}\n\n/* rodapé */\n.gw-footer{\n  position:relative;\n  z-index:2;\n\n  margin-top:24px;\n\n  text-align:center;\n\n  color:#9b8662;\n  font-size:16px;\n  line-height:1.7;\n  font-style:italic;\n}\n</style>\n\n<div class=\"gw-wrap\">\n\n  <div class=\"gw-card\">\n\n    <!-- ornamentos -->\n    <i class=\"fa-solid fa-leaf gw-leaf top\"></i>\n    <i class=\"fa-solid fa-leaf gw-leaf bottom\"></i>\n\n    <!-- cabeçalho -->\n    <div class=\"gw-header\">\n\n      <span>Bodas de Ouro</span>\n\n      <h2>\n        Lista de Presentes\n      </h2>\n\n      <p>\n        Para aqueles que desejarem nos presentear,<br>\n        deixamos abaixo algumas sugestões especiais ✨\n      </p>\n\n    </div>\n\n    <!-- lista -->\n    <div class=\"gw-list\">\n\n      <div class=\"gw-item\">\n\n        <div class=\"gw-icon\">\n          <i class=\"fa-solid fa-gift\"></i>\n        </div>\n\n        <div>\n          <div class=\"gw-title\">Riachuelo Home</div>\n\n          <div class=\"gw-text\">\n            Itens de casa, decoração e utilidades para o lar.\n          </div>\n        </div>\n\n      </div>\n\n      <div class=\"gw-item\">\n\n        <div class=\"gw-icon\">\n          <i class=\"fa-solid fa-champagne-glasses\"></i>\n        </div>\n\n        <div>\n          <div class=\"gw-title\">Camicado</div>\n\n          <div class=\"gw-text\">\n            Utensílios, mesa posta, decoração e presentes sofisticados.\n          </div>\n        </div>\n\n      </div>\n\n    </div>\n\n    <!-- rodapé -->\n    <div class=\"gw-footer\">\n      O maior presente será celebrar este momento especial ao lado de vocês 💛\n    </div>\n\n  </div>\n\n</div>"
     },
     {
       "tipoAcao": "PopupHtml",
