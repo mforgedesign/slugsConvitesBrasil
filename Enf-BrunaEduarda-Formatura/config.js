@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/music_1778608364523.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/music_1778608681716.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Enf-BrunaEduarda-Formatura",
@@ -21,18 +21,18 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/cover_1778608364523.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/cover_1778608681716.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide1_1778608364523.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide2_1778608364523.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide3_1778608364523.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide4_1778608364523.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide5_1778608364523.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide6_1778608364523.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide1_1778608681716.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide2_1778608681716.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide3_1778608681716.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide4_1778608681716.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide5_1778608681716.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/slide6_1778608681716.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/folha_1778608364523.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/folha_1778608364523.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/music_1778608364523.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/folha_1778608681716.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/folha_1778608681716.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Enf-BrunaEduarda-Formatura/music_1778608681716.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
