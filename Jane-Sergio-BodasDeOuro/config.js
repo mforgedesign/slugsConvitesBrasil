@@ -21,12 +21,12 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/cover_1778606429365.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/cover_1778607064127.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/slide1_1778606429365.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/slide1_1778607064127.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/folha_1778606429365.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/folha_1778606429365.jpg",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/folha_1778607064127.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Jane-Sergio-BodasDeOuro/folha_1778607064127.jpg",
     "musica": "",
     "fotos": [],
     "popupImagensPorBotao": {}
