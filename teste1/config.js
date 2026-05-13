@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul com Prata",
     "tema": "15 Anos",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/music.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/music_1778691446383.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "teste1",
@@ -21,15 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/cover.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/cover_1778691446383.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/slide1.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/slide2.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/slide1_1778691446383.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/slide2_1778691446383.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/folha.mp4",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/folha.mp4",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/music.mp3",
-    "fotos": []
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/folha_1778691446383.mp4",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/folha_1778691446383.mp4",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/teste1/music_1778691446383.mp3",
+    "fotos": [],
+    "popupImagensPorBotao": {}
   },
   "botoes": [
     {
@@ -73,6 +74,7 @@ window.config = {
   },
   "config": {
     "exibirMarcaDagua": false,
+    "cronometro": true,
     "buttonColor": "#4f1144",
     "buttonSize": 1,
     "isButtonFilled": true,
