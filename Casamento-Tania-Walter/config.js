@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/music_1778768238343.mp3",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/music_1778768382601.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Casamento-Tania-Walter",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/cover_1778768238343.jpg",
+    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/cover_1778768382601.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide1_1778768238343.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide2_1778768238343.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide3_1778768238343.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide4_1778768238343.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide5_1778768238343.mp4"
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide1_1778768382601.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide2_1778768382601.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide3_1778768382601.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide4_1778768382601.mp4",
+      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide5_1778768382601.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/folha_1778768238343.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/folha_1778768238343.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/music_1778768238343.mp3",
+    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/folha_1778768382601.jpg",
+    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/folha_1778768382601.jpg",
+    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/music_1778768382601.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
