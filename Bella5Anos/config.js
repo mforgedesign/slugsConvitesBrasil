@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/music_1778770060576.mp3",
+    "musica": "assets/music_1779372001384.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Bella5Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/cover_1778770060576.png",
+    "capa": "assets/cover_1779372001384.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/slide1_1778770060576.mp4"
+      "assets/slide1_1779372001384.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/folha_1778770060576.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/folha_1778770060576.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/music_1778770060576.mp3",
+    "folhaVazia": "assets/folha_1779372001384.jpg",
+    "folhaPreenchida": "assets/folha_1779372001384.jpg",
+    "musica": "assets/music_1779372001384.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/Bella%205%20Anos%20Princesa%20Tiana%20(4)_1778770060576.jpg"
+      "1": "assets/Bella 5 Anos Princesa Tiana (4)_1779372001384.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Bella5Anos/Bella%205%20Anos%20Princesa%20Tiana%20(4)_1778770060576.jpg"
+      "conteudo": "assets/Bella 5 Anos Princesa Tiana (4)_1779372001384.jpg"
     },
     {
       "tipoAcao": "Link",
