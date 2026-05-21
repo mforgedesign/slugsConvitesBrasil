@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Prata, Azul escuro e Preto",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/music_1776958953535.mp3",
+    "musica": "assets/music_1779370009863.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Mariana-15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/cover_1776958953535.jpg",
+    "capa": "assets/cover_1779370009863.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide1_1776958953535.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide2_1776958953535.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide3_1776958953535.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/slide4_1776958953535.jpg"
+      "assets/slide1_1779370009863.mp4",
+      "assets/slide2_1779370009863.jpg",
+      "assets/slide3_1779370009863.mp4",
+      "assets/slide4_1779370009863.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/folha_1776958953535.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/folha_1776958953535.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Mariana-15Anos/music_1776958953535.mp3",
+    "folhaVazia": "assets/folha_1779370009863.jpg",
+    "folhaPreenchida": "assets/folha_1779370009863.jpg",
+    "musica": "assets/music_1779370009863.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
