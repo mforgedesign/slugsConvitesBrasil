@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "lilas",
     "tema": "Enrolados",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/music_1777582815728.mp3",
+    "musica": "assets/music_1779368234302.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "anajulia15anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/cover_1777582815728.jpg",
+    "capa": "assets/cover_1779368234302.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/slide1_1777582815728.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/slide2_1777582815728.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/slide3_1777582815728.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/slide4_1777582815728.mp4"
+      "assets/slide1_1779368234302.mp4",
+      "assets/slide2_1779368234302.mp4",
+      "assets/slide3_1779368234302.mp4",
+      "assets/slide4_1779368234302.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/folha_1777582815728.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/folha_1777582815728.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15anos/music_1777582815728.mp3",
+    "folhaVazia": "assets/folha_1779368234302.jpg",
+    "folhaPreenchida": "assets/folha_1779368234302.jpg",
+    "musica": "assets/music_1779368234302.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
