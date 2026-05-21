@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/music_1778768619250.mp3",
+    "musica": "assets/music_1779385609964.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Casamento-Tania-Walter",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/cover_1778768619250.jpg",
+    "capa": "assets/cover_1779385609964.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide1_1778768619250.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide2_1778768619250.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide3_1778768619250.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide4_1778768619250.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/slide5_1778768619250.mp4"
+      "assets/slide1_1779385609964.mp4",
+      "assets/slide2_1779385609964.mp4",
+      "assets/slide3_1779385609964.mp4",
+      "assets/slide4_1779385609964.mp4",
+      "assets/slide5_1779385609964.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/folha_1778768619250.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/folha_1778768619250.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Casamento-Tania-Walter/music_1778768619250.mp3",
+    "folhaVazia": "assets/folha_1779385609964.jpg",
+    "folhaPreenchida": "assets/folha_1779385609964.jpg",
+    "musica": "assets/music_1779385609964.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

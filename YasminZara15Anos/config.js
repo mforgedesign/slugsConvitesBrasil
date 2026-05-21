@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/YasminZara15Anos/music_1779206965250.mp3",
+    "musica": "assets/music_1779385611176.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "YasminZara15Anos",
@@ -21,15 +21,15 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/YasminZara15Anos/cover_1779206965250.jpg",
+    "capa": "assets/cover_1779385611176.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/YasminZara15Anos/slide1_1779206965250.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/YasminZara15Anos/slide2_1779206965250.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/YasminZara15Anos/slide3_1779206965250.mp4"
+      "assets/slide1_1779385611176.mp4",
+      "assets/slide2_1779385611176.mp4",
+      "assets/slide3_1779385611176.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/YasminZara15Anos/folha_1779206965250.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/YasminZara15Anos/folha_1779206965250.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/YasminZara15Anos/music_1779206965250.mp3",
+    "folhaVazia": "assets/folha_1779385611176.jpg",
+    "folhaPreenchida": "assets/folha_1779385611176.jpg",
+    "musica": "assets/music_1779385611176.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

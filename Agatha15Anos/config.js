@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rose e dourado",
     "tema": "Floral borboletas",
-    "musica": "assets/music_1779367938122.mp3",
+    "musica": "assets/music_1779385609393.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Agatha15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779367938122.jpg",
+    "capa": "assets/cover_1779385609393.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779367938122.mp4"
+      "assets/slide1_1779385609393.mp4"
     ],
-    "folhaVazia": "assets/folha_1779367938122.jpg",
-    "folhaPreenchida": "assets/folha_1779367938122.jpg",
-    "musica": "assets/music_1779367938122.mp3",
+    "folhaVazia": "assets/folha_1779385609393.jpg",
+    "folhaPreenchida": "assets/folha_1779385609393.jpg",
+    "musica": "assets/music_1779385609393.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

@@ -21,12 +21,12 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/capa_1779367851399.jpg",
+    "capa": "assets/capa_1779385609303.jpg",
     "aberturaSlides": [
-      "assets/slide-1_1779367851399.mp4"
+      "assets/slide-1_1779385609303.mp4"
     ],
-    "folhaVazia": "assets/folha-preenchida_1779367851399.jpg",
-    "folhaPreenchida": "assets/folha-preenchida_1779367851399.jpg",
+    "folhaVazia": "assets/folha-preenchida_1779385609303.jpg",
+    "folhaPreenchida": "assets/folha-preenchida_1779385609303.jpg",
     "musica": "assets/Musica.mp3",
     "fotos": []
   },

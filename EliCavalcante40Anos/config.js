@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/EliCavalcante40Anos/music_1778524657519.mp3",
+    "musica": "assets/music_1779385610042.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "EliCavalcante40Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/EliCavalcante40Anos/cover_1778524657519.png",
+    "capa": "assets/cover_1779385610042.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/EliCavalcante40Anos/slide1_1778524657519.mp4"
+      "assets/slide1_1779385610042.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/EliCavalcante40Anos/folha_1778524657519.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/EliCavalcante40Anos/folha_1778524657519.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/EliCavalcante40Anos/music_1778524657519.mp3",
+    "folhaVazia": "assets/folha_1779385610042.jpg",
+    "folhaPreenchida": "assets/folha_1779385610042.jpg",
+    "musica": "assets/music_1779385610042.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

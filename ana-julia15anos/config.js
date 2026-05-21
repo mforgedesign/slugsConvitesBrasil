@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul Marinho, Rosa Bebê e Prata",
     "tema": "15 Anos",
-    "musica": "assets/music_1779368059093.mp3",
+    "musica": "assets/music_1779385609526.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "ana-julia15anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779368059093.jpg",
+    "capa": "assets/cover_1779385609526.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779368059093.mp4"
+      "assets/slide1_1779385609526.mp4"
     ],
-    "folhaVazia": "assets/folha_1779368059093.jpg",
-    "folhaPreenchida": "assets/folha_1779368059093.jpg",
-    "musica": "assets/music_1779368059093.mp3",
+    "folhaVazia": "assets/folha_1779385609526.jpg",
+    "folhaPreenchida": "assets/folha_1779385609526.jpg",
+    "musica": "assets/music_1779385609526.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "assets/43a3edba-300c-492b-8396-a17cfe159de7_1779368059093.jpg"
+      "1": "assets/43a3edba-300c-492b-8396-a17cfe159de7_1779385609526.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas dePresente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/43a3edba-300c-492b-8396-a17cfe159de7_1779368059093.jpg"
+      "conteudo": "assets/43a3edba-300c-492b-8396-a17cfe159de7_1779385609526.jpg"
     },
     {
       "tipoAcao": "Link",

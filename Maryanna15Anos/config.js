@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/music_1776435788132.mp3",
+    "musica": "assets/music_1779385610650.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Maryanna15Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/cover_1776435788132.jpg",
+    "capa": "assets/cover_1779385610650.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide1_1776435788132.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide2_1776435788132.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide3_1776435788132.png",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide4_1776435788132.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/slide5_1776435788132.png"
+      "assets/slide1_1779385610650.mp4",
+      "assets/slide2_1779385610650.mp4",
+      "assets/slide3_1779385610650.png",
+      "assets/slide4_1779385610650.mp4",
+      "assets/slide5_1779385610650.png"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/folha_1776435788132.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/folha_1776435788132.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/music_1776435788132.mp3",
+    "folhaVazia": "assets/folha_1779385610650.jpg",
+    "folhaPreenchida": "assets/folha_1779385610650.jpg",
+    "musica": "assets/music_1779385610650.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/Maryanna%20%20Convite%20Azul%20Serenity%20(3)_1776435788132.jpg"
+      "1": "assets/Maryanna  Convite Azul Serenity (3)_1779385610650.jpg"
     }
   },
   "botoes": [
@@ -50,7 +50,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Maryanna15Anos/Maryanna%20%20Convite%20Azul%20Serenity%20(3)_1776435788132.jpg"
+      "conteudo": "assets/Maryanna  Convite Azul Serenity (3)_1779385610650.jpg"
     },
     {
       "tipoAcao": "PopupHtml",

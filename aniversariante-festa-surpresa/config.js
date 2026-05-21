@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "Festa de aniversário surpresa",
-    "musica": "assets/musica_1779368438660.mp3",
+    "musica": "assets/musica_1779385609797.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "aniversariante-festa-surpresa",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/capa_1779368438660.jpg",
+    "capa": "assets/capa_1779385609797.jpg",
     "aberturaSlides": [
-      "assets/Slide3_1779368438660.mp4",
-      "assets/slide1_1779368438660.mp4",
-      "assets/slide2_1779368438660.mp4",
-      "assets/slide4_1779368438660.mp4",
-      "assets/slide5_1779368438660.mp4"
+      "assets/Slide3_1779385609797.mp4",
+      "assets/slide1_1779385609797.mp4",
+      "assets/slide2_1779385609797.mp4",
+      "assets/slide4_1779385609797.mp4",
+      "assets/slide5_1779385609797.mp4"
     ],
-    "folhaVazia": "assets/Folha Preenchida_1779368438660.jpg",
-    "folhaPreenchida": "assets/Folha Preenchida_1779368438660.jpg",
-    "musica": "assets/musica_1779368438660.mp3",
+    "folhaVazia": "assets/Folha Preenchida_1779385609797.jpg",
+    "folhaPreenchida": "assets/Folha Preenchida_1779385609797.jpg",
+    "musica": "assets/musica_1779385609797.mp3",
     "fotos": []
   },
   "botoes": [

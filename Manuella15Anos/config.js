@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779369868184.mp3",
+    "musica": "assets/music_1779385610581.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Manuella15Anos",
@@ -21,11 +21,11 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779369868184.png",
+    "capa": "assets/cover_1779385610581.png",
     "aberturaSlides": [],
-    "folhaVazia": "assets/folha_1779369868184.jpg",
-    "folhaPreenchida": "assets/folha_1779369868184.jpg",
-    "musica": "assets/music_1779369868184.mp3",
+    "folhaVazia": "assets/folha_1779385610581.jpg",
+    "folhaPreenchida": "assets/folha_1779385610581.jpg",
+    "musica": "assets/music_1779385610581.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

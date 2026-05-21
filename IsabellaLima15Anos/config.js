@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Verde e Rose ",
     "tema": "Floresta encantada",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/music_1775835766064.mp3",
+    "musica": "assets/music_1779385610234.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "IsabellaLima15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/cover_1775835766064.png",
+    "capa": "assets/cover_1779385610234.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/slide1_1775835766064.mp4"
+      "assets/slide1_1779385610234.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/folha_1775835766064.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/folha_1775835766064.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/IsabellaLima15Anos/music_1775835766064.mp3",
+    "folhaVazia": "assets/folha_1779385610234.jpg",
+    "folhaPreenchida": "assets/folha_1779385610234.jpg",
+    "musica": "assets/music_1779385610234.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

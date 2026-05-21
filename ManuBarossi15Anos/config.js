@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779369772783.mp3",
+    "musica": "assets/music_1779385610532.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "ManuBarossi15Anos",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779369772783.jpg",
+    "capa": "assets/cover_1779385610532.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779369772783.mp4",
-      "assets/slide2_1779369772783.mp4",
-      "assets/slide3_1779369772783.jpg",
-      "assets/slide4_1779369772783.mp4",
-      "assets/slide5_1779369772783.jpg"
+      "assets/slide1_1779385610532.mp4",
+      "assets/slide2_1779385610532.mp4",
+      "assets/slide3_1779385610532.jpg",
+      "assets/slide4_1779385610532.mp4",
+      "assets/slide5_1779385610532.jpg"
     ],
-    "folhaVazia": "assets/folha_1779369772783.jpg",
-    "folhaPreenchida": "assets/folha_1779369772783.jpg",
-    "musica": "assets/music_1779369772783.mp3",
+    "folhaVazia": "assets/folha_1779385610532.jpg",
+    "folhaPreenchida": "assets/folha_1779385610532.jpg",
+    "musica": "assets/music_1779385610532.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

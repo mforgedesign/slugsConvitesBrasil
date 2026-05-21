@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul e Dourado",
     "tema": "Bridgerton",
-    "musica": "assets/music_1779369421992.mp3",
+    "musica": "assets/music_1779385610411.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "JulianaBusson35Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779369421992.jpg",
+    "capa": "assets/cover_1779385610411.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779369421992.mp4",
-      "assets/slide2_1779369421992.jpg",
-      "assets/slide3_1779369421992.mp4",
-      "assets/slide4_1779369421992.mp4",
-      "assets/slide5_1779369421992.jpg"
+      "assets/slide1_1779385610411.mp4",
+      "assets/slide2_1779385610411.jpg",
+      "assets/slide3_1779385610411.mp4",
+      "assets/slide4_1779385610411.mp4",
+      "assets/slide5_1779385610411.jpg"
     ],
-    "folhaVazia": "assets/folha_1779369421992.jpg",
-    "folhaPreenchida": "assets/folha_1779369421992.jpg",
-    "musica": "assets/music_1779369421992.mp3",
+    "folhaVazia": "assets/folha_1779385610411.jpg",
+    "folhaPreenchida": "assets/folha_1779385610411.jpg",
+    "musica": "assets/music_1779385610411.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "assets/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1779369421992.jpg"
+      "1": "assets/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1779385610411.jpg"
     }
   },
   "botoes": [
@@ -50,7 +50,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1779369421992.jpg"
+      "conteudo": "assets/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1779385610411.jpg"
     },
     {
       "tipoAcao": "RSVP",

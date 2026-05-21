@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779368341829.mp3",
+    "musica": "assets/music_1779385609699.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Andrea-Sophia15Anos",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779368341829.jpg",
+    "capa": "assets/cover_1779385609699.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779368341829.mp4",
-      "assets/slide2_1779368341829.mp4",
-      "assets/slide3_1779368341829.mp4",
-      "assets/slide4_1779368341829.mp4",
-      "assets/slide5_1779368341829.mp4"
+      "assets/slide1_1779385609699.mp4",
+      "assets/slide2_1779385609699.mp4",
+      "assets/slide3_1779385609699.mp4",
+      "assets/slide4_1779385609699.mp4",
+      "assets/slide5_1779385609699.mp4"
     ],
-    "folhaVazia": "assets/folha_1779368341829.jpg",
-    "folhaPreenchida": "assets/folha_1779368341829.jpg",
-    "musica": "assets/music_1779368341829.mp3",
+    "folhaVazia": "assets/folha_1779385609699.jpg",
+    "folhaPreenchida": "assets/folha_1779385609699.jpg",
+    "musica": "assets/music_1779385609699.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

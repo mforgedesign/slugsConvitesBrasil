@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Pink, Rosé e Prata",
     "tema": "Floral Borboletas",
-    "musica": "assets/Musica_1779367922186.mp3",
+    "musica": "assets/Musica_1779385609376.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "15anos-sophia",
@@ -25,7 +25,7 @@ window.config = {
     "aberturaSlides": [],
     "folhaVazia": "assets/Folha Preenchida.jpg",
     "folhaPreenchida": "assets/Folha Preenchida.jpg",
-    "musica": "assets/Musica_1779367922186.mp3",
+    "musica": "assets/Musica_1779385609376.mp3",
     "fotos": []
   },
   "botoes": [

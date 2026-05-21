@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa pink deep, prata, rosa bebê",
     "tema": "Jardim Encantado",
-    "musica": "assets/music_1779367990327.mp3",
+    "musica": "assets/music_1779385609452.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "AliceAlves-15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779367990327.jpg",
+    "capa": "assets/cover_1779385609452.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779367990327.mp4"
+      "assets/slide1_1779385609452.mp4"
     ],
-    "folhaVazia": "assets/folha_1779367990327.jpg",
-    "folhaPreenchida": "assets/folha_1779367990327.jpg",
-    "musica": "assets/music_1779367990327.mp3",
+    "folhaVazia": "assets/folha_1779385609452.jpg",
+    "folhaPreenchida": "assets/folha_1779385609452.jpg",
+    "musica": "assets/music_1779385609452.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/music_1777396678982.mp3",
+    "musica": "assets/music_1779385610965.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Teca-Anos60",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/cover_1777396678982.jpg",
+    "capa": "assets/cover_1779385610965.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/slide1_1777396678982.mp4"
+      "assets/slide1_1779385610965.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/folha_1777396678982.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/folha_1777396678982.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Teca-Anos60/music_1777396678982.mp3",
+    "folhaVazia": "assets/folha_1779385610965.jpg",
+    "folhaPreenchida": "assets/folha_1779385610965.jpg",
+    "musica": "assets/music_1779385610965.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

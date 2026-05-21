@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779372001384.mp3",
+    "musica": "assets/music_1779385609923.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Bella5Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779372001384.png",
+    "capa": "assets/cover_1779385609923.png",
     "aberturaSlides": [
-      "assets/slide1_1779372001384.mp4"
+      "assets/slide1_1779385609923.mp4"
     ],
-    "folhaVazia": "assets/folha_1779372001384.jpg",
-    "folhaPreenchida": "assets/folha_1779372001384.jpg",
-    "musica": "assets/music_1779372001384.mp3",
+    "folhaVazia": "assets/folha_1779385609923.jpg",
+    "folhaPreenchida": "assets/folha_1779385609923.jpg",
+    "musica": "assets/music_1779385609923.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "assets/Bella 5 Anos Princesa Tiana (4)_1779372001384.jpg"
+      "1": "assets/Bella 5 Anos Princesa Tiana (4)_1779385609923.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/Bella 5 Anos Princesa Tiana (4)_1779372001384.jpg"
+      "conteudo": "assets/Bella 5 Anos Princesa Tiana (4)_1779385609923.jpg"
     },
     {
       "tipoAcao": "Link",

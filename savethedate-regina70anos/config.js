@@ -2,7 +2,7 @@ window.config = {
   "productType": "savethedate",
   "convite": {
     "slug": "savethedate-regina70anos",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/savethedate-regina70anos/music_1774566957760.mp3",
+    "musica": "assets/music_1779385610785.mp3",
     "seo": {
       "pageTitle": "Convite: 15 Anos - Regina",
       "ogTitle": "Você está convidado para os 70 anos da Regina!",
@@ -19,9 +19,9 @@ window.config = {
     }
   ],
   "assets": {
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/savethedate-regina70anos/folha_1774566957760.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/savethedate-regina70anos/music_1774566957760.mp3",
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/savethedate-regina70anos/folha_1774566957760.jpg"
+    "folhaPreenchida": "assets/folha_1779385610785.jpg",
+    "musica": "assets/music_1779385610785.mp3",
+    "folhaVazia": "assets/folha_1779385610785.jpg"
   },
   "config": {
     "brilhos": {

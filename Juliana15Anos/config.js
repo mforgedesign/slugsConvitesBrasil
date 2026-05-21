@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Marsala, rosa, dourado",
     "tema": "Medieval",
-    "musica": "assets/music_1779369321212.mp3",
+    "musica": "assets/music_1779385610380.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Juliana15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779369321212.png",
+    "capa": "assets/cover_1779385610380.png",
     "aberturaSlides": [
-      "assets/slide1_1779369321212.mp4"
+      "assets/slide1_1779385610380.mp4"
     ],
-    "folhaVazia": "assets/folha_1779369321212.jpg",
-    "folhaPreenchida": "assets/folha_1779369321212.jpg",
-    "musica": "assets/music_1779369321212.mp3",
+    "folhaVazia": "assets/folha_1779385610380.jpg",
+    "folhaPreenchida": "assets/folha_1779385610380.jpg",
+    "musica": "assets/music_1779385610380.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "assets/Juliana Medieval Marsala, Dourado (5)_1779369321212.jpg"
+      "1": "assets/Juliana Medieval Marsala, Dourado (5)_1779385610380.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/Juliana Medieval Marsala, Dourado (5)_1779369321212.jpg"
+      "conteudo": "assets/Juliana Medieval Marsala, Dourado (5)_1779385610380.jpg"
     },
     {
       "tipoAcao": "PopupHtml",

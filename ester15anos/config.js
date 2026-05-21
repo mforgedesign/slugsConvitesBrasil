@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul com Prata",
     "tema": "15 Anos",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/music.mp3",
+    "musica": "assets/music_1779385610156.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "ester15anos",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/cover.jpg",
+    "capa": "assets/cover_1779385610156.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/slide1.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/slide2.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/slide3.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/slide4.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/slide5.mp4"
+      "assets/slide1_1779385610156.mp4",
+      "assets/slide2_1779385610156.mp4",
+      "assets/slide3_1779385610156.mp4",
+      "assets/slide4_1779385610156.mp4",
+      "assets/slide5_1779385610156.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/folha.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/folha.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ester15anos/music.mp3",
+    "folhaVazia": "assets/folha_1779385610156.jpg",
+    "folhaPreenchida": "assets/folha_1779385610156.jpg",
+    "musica": "assets/music_1779385610156.mp3",
     "fotos": []
   },
   "botoes": [

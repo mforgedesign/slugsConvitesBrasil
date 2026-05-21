@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779368017756.mp3",
+    "musica": "assets/music_1779385609483.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Amanda15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779368017756.jpg",
+    "capa": "assets/cover_1779385609483.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779368017756.mp4"
+      "assets/slide1_1779385609483.mp4"
     ],
-    "folhaVazia": "assets/folha_1779368017756.jpg",
-    "folhaPreenchida": "assets/folha_1779368017756.jpg",
-    "musica": "assets/music_1779368017756.mp3",
+    "folhaVazia": "assets/folha_1779385609483.jpg",
+    "folhaPreenchida": "assets/folha_1779385609483.jpg",
+    "musica": "assets/music_1779385609483.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

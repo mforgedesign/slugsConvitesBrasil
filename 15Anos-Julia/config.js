@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul Marinho",
     "tema": "Harry Potter",
-    "musica": "assets/music_1779367877275.mp3",
+    "musica": "assets/music_1779385609329.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "15Anos-Julia",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779367877275.png",
+    "capa": "assets/cover_1779385609329.png",
     "aberturaSlides": [
-      "assets/slide1_1779367877275.mp4",
-      "assets/slide2_1779367877275.jpg",
-      "assets/slide3_1779367877275.mp4",
-      "assets/slide4_1779367877275.mp4"
+      "assets/slide1_1779385609329.mp4",
+      "assets/slide2_1779385609329.jpg",
+      "assets/slide3_1779385609329.mp4",
+      "assets/slide4_1779385609329.mp4"
     ],
-    "folhaVazia": "assets/folha_1779367877275.jpg",
-    "folhaPreenchida": "assets/folha_1779367877275.jpg",
-    "musica": "assets/music_1779367877275.mp3",
+    "folhaVazia": "assets/folha_1779385609329.jpg",
+    "folhaPreenchida": "assets/folha_1779385609329.jpg",
+    "musica": "assets/music_1779385609329.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

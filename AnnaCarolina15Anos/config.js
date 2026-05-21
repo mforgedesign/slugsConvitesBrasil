@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779368511326.mp3",
+    "musica": "assets/music_1779385609851.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnnaCarolina15Anos",
@@ -21,19 +21,19 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779368511326.jpg",
+    "capa": "assets/cover_1779385609851.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779368511326.mp4",
-      "assets/slide2_1779368511326.mp4",
-      "assets/slide3_1779368511326.mp4",
-      "assets/slide4_1779368511326.jpg"
+      "assets/slide1_1779385609851.mp4",
+      "assets/slide2_1779385609851.mp4",
+      "assets/slide3_1779385609851.mp4",
+      "assets/slide4_1779385609851.jpg"
     ],
-    "folhaVazia": "assets/folha_1779368511326.jpg",
-    "folhaPreenchida": "assets/folha_1779368511326.jpg",
-    "musica": "assets/music_1779368511326.mp3",
+    "folhaVazia": "assets/folha_1779385609851.jpg",
+    "folhaPreenchida": "assets/folha_1779385609851.jpg",
+    "musica": "assets/music_1779385609851.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "assets/Anna Carolina Convite Rosa Dourado (2)_1779368511326.jpg"
+      "1": "assets/Anna Carolina Convite Rosa Dourado (2)_1779385609851.jpg"
     }
   },
   "botoes": [
@@ -49,7 +49,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/Anna Carolina Convite Rosa Dourado (2)_1779368511326.jpg"
+      "conteudo": "assets/Anna Carolina Convite Rosa Dourado (2)_1779385609851.jpg"
     },
     {
       "tipoAcao": "PopupHtml",

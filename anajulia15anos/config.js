@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "lilas",
     "tema": "Enrolados",
-    "musica": "assets/music_1779368234302.mp3",
+    "musica": "assets/music_1779385609584.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "anajulia15anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779368234302.jpg",
+    "capa": "assets/cover_1779385609584.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779368234302.mp4",
-      "assets/slide2_1779368234302.mp4",
-      "assets/slide3_1779368234302.mp4",
-      "assets/slide4_1779368234302.mp4"
+      "assets/slide1_1779385609584.mp4",
+      "assets/slide2_1779385609584.mp4",
+      "assets/slide3_1779385609584.mp4",
+      "assets/slide4_1779385609584.mp4"
     ],
-    "folhaVazia": "assets/folha_1779368234302.jpg",
-    "folhaPreenchida": "assets/folha_1779368234302.jpg",
-    "musica": "assets/music_1779368234302.mp3",
+    "folhaVazia": "assets/folha_1779385609584.jpg",
+    "folhaPreenchida": "assets/folha_1779385609584.jpg",
+    "musica": "assets/music_1779385609584.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

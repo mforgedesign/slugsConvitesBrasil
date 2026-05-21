@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Dourado, Verde Tiffany, azul claro",
     "tema": "Jasmine",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/sophia15anos/Musica_1775867397890.mp3",
+    "musica": "assets/Musica_1779385610887.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "sophia15anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/sophia15anos/capa_1775867397890.jpg",
+    "capa": "assets/capa_1779385610887.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/sophia15anos/slide-1_1775867397890.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/sophia15anos/slide-2_1775867397890.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/sophia15anos/slide-3_1775867397890.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/sophia15anos/slide-4_1775867397890.mp4"
+      "assets/slide-1_1779385610887.mp4",
+      "assets/slide-2_1779385610887.mp4",
+      "assets/slide-3_1779385610887.jpg",
+      "assets/slide-4_1779385610887.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/sophia15anos/folha-preenchida_1775867397890.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/sophia15anos/folha-preenchida_1775867397890.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/sophia15anos/Musica_1775867397890.mp3",
+    "folhaVazia": "assets/folha-preenchida_1779385610887.jpg",
+    "folhaPreenchida": "assets/folha-preenchida_1779385610887.jpg",
+    "musica": "assets/Musica_1779385610887.mp3",
     "fotos": []
   },
   "botoes": [

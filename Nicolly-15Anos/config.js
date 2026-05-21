@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Vermelho ,branco e dourado",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/music_1776975048340.mp3",
+    "musica": "assets/music_1779385610705.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Nicolly-15Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/cover_1776975048340.jpg",
+    "capa": "assets/cover_1779385610705.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/slide1_1776975048340.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/slide2_1776975048340.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/slide3_1776975048340.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/slide4_1776975048340.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/slide5_1776975048340.jpg"
+      "assets/slide1_1779385610705.mp4",
+      "assets/slide2_1779385610705.mp4",
+      "assets/slide3_1779385610705.jpg",
+      "assets/slide4_1779385610705.mp4",
+      "assets/slide5_1779385610705.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/folha_1776975048340.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/folha_1776975048340.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/music_1776975048340.mp3",
+    "folhaVazia": "assets/folha_1779385610705.jpg",
+    "folhaPreenchida": "assets/folha_1779385610705.jpg",
+    "musica": "assets/music_1779385610705.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/aa_1776975048340.jpg"
+      "1": "assets/aa_1779385610705.jpg"
     }
   },
   "botoes": [
@@ -50,7 +50,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Nicolly-15Anos/aa_1776975048340.jpg"
+      "conteudo": "assets/aa_1779385610705.jpg"
     },
     {
       "tipoAcao": "PopupHtml",

@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Dourado, Verde, Tiffany, Azul Claro",
     "tema": "Jasmine (Alladin)",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1778525196874.mp3",
+    "musica": "assets/music_1779385610923.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "SophiaThomaz15Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/cover_1778525196874.jpg",
+    "capa": "assets/cover_1779385610923.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide1_1778525196874.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide2_1778525196874.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide3_1778525196874.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide4_1778525196874.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/slide5_1778525196874.jpg"
+      "assets/slide1_1779385610923.mp4",
+      "assets/slide2_1779385610923.jpg",
+      "assets/slide3_1779385610923.mp4",
+      "assets/slide4_1779385610923.mp4",
+      "assets/slide5_1779385610923.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1778525196874.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/folha_1778525196874.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/music_1778525196874.mp3",
+    "folhaVazia": "assets/folha_1779385610923.jpg",
+    "folhaPreenchida": "assets/folha_1779385610923.jpg",
+    "musica": "assets/music_1779385610923.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "2": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Design%20sem%20nome%20(50)_1778525196874.jpg"
+      "2": "assets/Design sem nome (50)_1779385610923.jpg"
     }
   },
   "botoes": [
@@ -57,7 +57,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/SophiaThomaz15Anos/Design%20sem%20nome%20(50)_1778525196874.jpg"
+      "conteudo": "assets/Design sem nome (50)_1779385610923.jpg"
     },
     {
       "tipoAcao": "RSVP",

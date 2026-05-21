@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Pink, Rosé e Prata",
     "tema": "Floral",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1778792977323.mp3",
+    "musica": "assets/music_1779385610858.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Sophia-15-Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/cover_1778792977323.png",
+    "capa": "assets/cover_1779385610858.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/slide1_1778792977323.mp4"
+      "assets/slide1_1779385610858.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1778792977323.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/folha_1778792977323.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Sophia-15-Anos/music_1778792977323.mp3",
+    "folhaVazia": "assets/folha_1779385610858.jpg",
+    "folhaPreenchida": "assets/folha_1779385610858.jpg",
+    "musica": "assets/music_1779385610858.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

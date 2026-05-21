@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Prata, Azul escuro e Preto",
     "tema": "",
-    "musica": "assets/music_1779370009863.mp3",
+    "musica": "assets/music_1779385610619.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Mariana-15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779370009863.jpg",
+    "capa": "assets/cover_1779385610619.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779370009863.mp4",
-      "assets/slide2_1779370009863.jpg",
-      "assets/slide3_1779370009863.mp4",
-      "assets/slide4_1779370009863.jpg"
+      "assets/slide1_1779385610619.mp4",
+      "assets/slide2_1779385610619.jpg",
+      "assets/slide3_1779385610619.mp4",
+      "assets/slide4_1779385610619.jpg"
     ],
-    "folhaVazia": "assets/folha_1779370009863.jpg",
-    "folhaPreenchida": "assets/folha_1779370009863.jpg",
-    "musica": "assets/music_1779370009863.mp3",
+    "folhaVazia": "assets/folha_1779385610619.jpg",
+    "folhaPreenchida": "assets/folha_1779385610619.jpg",
+    "musica": "assets/music_1779385610619.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

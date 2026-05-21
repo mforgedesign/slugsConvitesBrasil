@@ -25,12 +25,12 @@ window.config = {
     "aberturaSlides": [
       "assets/Slide1.mp4",
       "assets/Slide2.mp4",
-      "assets/Slide3_1779368377182.mp4",
+      "assets/Slide3_1779385609741.mp4",
       "assets/Slide4.mp4",
       "assets/Slide5.mp4"
     ],
-    "folhaVazia": "assets/Folha Preenchida_1779368377182.jpg",
-    "folhaPreenchida": "assets/Folha Preenchida_1779368377182.jpg",
+    "folhaVazia": "assets/Folha Preenchida_1779385609741.jpg",
+    "folhaPreenchida": "assets/Folha Preenchida_1779385609741.jpg",
     "musica": "assets/Musica.mp3",
     "fotos": []
   },

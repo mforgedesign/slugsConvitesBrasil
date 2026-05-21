@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul com Prata",
     "tema": "15 Anos",
-    "musica": "assets/music_1779368086334.mp3",
+    "musica": "assets/music_1779385609558.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnabelSilva15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779368086334.jpg",
+    "capa": "assets/cover_1779385609558.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779368086334.mp4"
+      "assets/slide1_1779385609558.mp4"
     ],
-    "folhaVazia": "assets/folha_1779368086334.jpg",
-    "folhaPreenchida": "assets/folha_1779368086334.jpg",
-    "musica": "assets/music_1779368086334.mp3",
+    "folhaVazia": "assets/folha_1779385609558.jpg",
+    "folhaPreenchida": "assets/folha_1779385609558.jpg",
+    "musica": "assets/music_1779385609558.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },

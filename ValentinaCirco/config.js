@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/music_1777318098130.mp3",
+    "musica": "assets/music_1779385611039.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "ValentinaCirco",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/cover_1777318098130.jpg",
+    "capa": "assets/cover_1779385611039.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/slide1_1777318098130.mp4"
+      "assets/slide1_1779385611039.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/folha_1777318098130.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/folha_1777318098130.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ValentinaCirco/music_1777318098130.mp3",
+    "folhaVazia": "assets/folha_1779385611039.jpg",
+    "folhaPreenchida": "assets/folha_1779385611039.jpg",
+    "musica": "assets/music_1779385611039.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
