@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa bebê e dourado",
     "tema": "Floral e borboletas",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/music_1775864359120.mp3",
+    "musica": "assets/music_1779371744691.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "BeatrizMoura15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/cover_1775864359120.jpg",
+    "capa": "assets/cover_1779371744691.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/slide1_1775864359120.mp4"
+      "assets/slide1_1779371744691.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/folha_1775864359120.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/folha_1775864359120.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/music_1775864359120.mp3",
+    "folhaVazia": "assets/folha_1779371744691.jpg",
+    "folhaPreenchida": "assets/folha_1779371744691.jpg",
+    "musica": "assets/music_1779371744691.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/copia_1775864359120.jpg"
+      "1": "assets/copia_1779371744691.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/BeatrizMoura15Anos/copia_1775864359120.jpg"
+      "conteudo": "assets/copia_1779371744691.jpg"
     },
     {
       "tipoAcao": "RSVP",
