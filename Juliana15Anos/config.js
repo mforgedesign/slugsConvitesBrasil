@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Marsala, rosa, dourado",
     "tema": "Medieval",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/music_1775863853256.mp3",
+    "musica": "assets/music_1779369321212.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Juliana15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/cover_1775863853256.png",
+    "capa": "assets/cover_1779369321212.png",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/slide1_1775863853256.mp4"
+      "assets/slide1_1779369321212.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/folha_1775863853256.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/folha_1775863853256.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/music_1775863853256.mp3",
+    "folhaVazia": "assets/folha_1779369321212.jpg",
+    "folhaPreenchida": "assets/folha_1779369321212.jpg",
+    "musica": "assets/music_1779369321212.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/Juliana%20Medieval%20Marsala,%20Dourado%20(5)_1775863853256.jpg"
+      "1": "assets/Juliana Medieval Marsala, Dourado (5)_1779369321212.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Juliana15Anos/Juliana%20Medieval%20Marsala,%20Dourado%20(5)_1775863853256.jpg"
+      "conteudo": "assets/Juliana Medieval Marsala, Dourado (5)_1779369321212.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
