@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/music_1778078064688.mp3",
+    "musica": "assets/music_1779369772783.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "ManuBarossi15Anos",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/cover_1778078064688.jpg",
+    "capa": "assets/cover_1779369772783.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide1_1778078064688.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide2_1778078064688.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide3_1778078064688.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide4_1778078064688.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/slide5_1778078064688.jpg"
+      "assets/slide1_1779369772783.mp4",
+      "assets/slide2_1779369772783.mp4",
+      "assets/slide3_1779369772783.jpg",
+      "assets/slide4_1779369772783.mp4",
+      "assets/slide5_1779369772783.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/folha_1778078064688.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/folha_1778078064688.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ManuBarossi15Anos/music_1778078064688.mp3",
+    "folhaVazia": "assets/folha_1779369772783.jpg",
+    "folhaPreenchida": "assets/folha_1779369772783.jpg",
+    "musica": "assets/music_1779369772783.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
