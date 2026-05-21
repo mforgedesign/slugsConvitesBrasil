@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Catarina15Anos/music_1779207914324.mp3",
+    "musica": "assets/music_1779371141535.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Catarina15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Catarina15Anos/cover_1779207914324.jpg",
+    "capa": "assets/cover_1779371141535.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Catarina15Anos/slide1_1779207914324.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Catarina15Anos/slide2_1779207914324.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Catarina15Anos/slide3_1779207914324.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Catarina15Anos/slide4_1779207914324.jpg"
+      "assets/slide1_1779371141535.mp4",
+      "assets/slide2_1779371141535.jpg",
+      "assets/slide3_1779371141535.mp4",
+      "assets/slide4_1779371141535.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Catarina15Anos/folha_1779207914324.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Catarina15Anos/folha_1779207914324.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Catarina15Anos/music_1779207914324.mp3",
+    "folhaVazia": "assets/folha_1779371141535.jpg",
+    "folhaPreenchida": "assets/folha_1779371141535.jpg",
+    "musica": "assets/music_1779371141535.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
