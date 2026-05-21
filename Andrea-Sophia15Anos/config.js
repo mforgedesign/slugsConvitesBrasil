@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/music_1777394757695.mp3",
+    "musica": "assets/music_1779368341829.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Andrea-Sophia15Anos",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/cover_1777394757695.jpg",
+    "capa": "assets/cover_1779368341829.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide1_1777394757695.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide2_1777394757695.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide3_1777394757695.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide4_1777394757695.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/slide5_1777394757695.mp4"
+      "assets/slide1_1779368341829.mp4",
+      "assets/slide2_1779368341829.mp4",
+      "assets/slide3_1779368341829.mp4",
+      "assets/slide4_1779368341829.mp4",
+      "assets/slide5_1779368341829.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/folha_1777394757695.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/folha_1777394757695.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Andrea-Sophia15Anos/music_1777394757695.mp3",
+    "folhaVazia": "assets/folha_1779368341829.jpg",
+    "folhaPreenchida": "assets/folha_1779368341829.jpg",
+    "musica": "assets/music_1779368341829.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
