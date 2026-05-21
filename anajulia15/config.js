@@ -21,15 +21,15 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15/capa_1777409666005.jpg",
+    "capa": "assets/capa_1779371394533.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15/slide-1_1777409666005.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15/slide-2_1777409666005.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15/slide-3_1777409666005.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15/slide-4_1777409666005.mp4"
+      "assets/slide-1_1779371394533.mp4",
+      "assets/slide-2_1779371394533.mp4",
+      "assets/slide-3_1779371394533.jpg",
+      "assets/slide-4_1779371394533.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15/folha-preenchida_1777409666005.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/anajulia15/folha-preenchida_1777409666005.jpg",
+    "folhaVazia": "assets/folha-preenchida_1779371394533.jpg",
+    "folhaPreenchida": "assets/folha-preenchida_1779371394533.jpg",
     "musica": "assets/Musica.mp3",
     "fotos": []
   },
