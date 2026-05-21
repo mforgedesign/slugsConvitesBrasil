@@ -21,12 +21,12 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-anajulia/capa_1777407360924.jpg",
+    "capa": "assets/capa_1779367851399.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-anajulia/slide-1_1777407360924.mp4"
+      "assets/slide-1_1779367851399.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-anajulia/folha-preenchida_1777407360924.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/15anos-anajulia/folha-preenchida_1777407360924.jpg",
+    "folhaVazia": "assets/folha-preenchida_1779367851399.jpg",
+    "folhaPreenchida": "assets/folha-preenchida_1779367851399.jpg",
     "musica": "assets/Musica.mp3",
     "fotos": []
   },
