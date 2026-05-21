@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul com Prata",
     "tema": "15 Anos",
-    "musica": "assets/music_1779367597035.mp3",
+    "musica": "assets/music_1779385720836.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "teste",
@@ -21,14 +21,14 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779367597035.jpg",
+    "capa": "assets/cover_1779385720836.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779367597035.mp4",
-      "assets/slide2_1779367597035.mp4"
+      "assets/slide1_1779385720836.mp4",
+      "assets/slide2_1779385720836.mp4"
     ],
-    "folhaVazia": "assets/folha_1779367597035.mp4",
-    "folhaPreenchida": "assets/folha_1779367597035.mp4",
-    "musica": "assets/music_1779367597035.mp3",
+    "folhaVazia": "assets/folha_1779385720836.mp4",
+    "folhaPreenchida": "assets/folha_1779385720836.mp4",
+    "musica": "assets/music_1779385720836.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
