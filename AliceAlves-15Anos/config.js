@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa pink deep, prata, rosa bebê",
     "tema": "Jardim Encantado",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AliceAlves-15Anos/music_1775411054634.mp3",
+    "musica": "assets/music_1779367990327.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "AliceAlves-15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AliceAlves-15Anos/cover_1775411054634.jpg",
+    "capa": "assets/cover_1779367990327.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AliceAlves-15Anos/slide1_1775411054634.mp4"
+      "assets/slide1_1779367990327.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AliceAlves-15Anos/folha_1775411054634.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AliceAlves-15Anos/folha_1775411054634.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AliceAlves-15Anos/music_1775411054634.mp3",
+    "folhaVazia": "assets/folha_1779367990327.jpg",
+    "folhaPreenchida": "assets/folha_1779367990327.jpg",
+    "musica": "assets/music_1779367990327.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
