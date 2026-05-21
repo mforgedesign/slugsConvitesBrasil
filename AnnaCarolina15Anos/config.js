@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775489851099.mp3",
+    "musica": "assets/music_1779368511326.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "AnnaCarolina15Anos",
@@ -21,19 +21,19 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/cover_1775489851099.jpg",
+    "capa": "assets/cover_1779368511326.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide1_1775489851099.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide2_1775489851099.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide3_1775489851099.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/slide4_1775489851099.jpg"
+      "assets/slide1_1779368511326.mp4",
+      "assets/slide2_1779368511326.mp4",
+      "assets/slide3_1779368511326.mp4",
+      "assets/slide4_1779368511326.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775489851099.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/folha_1775489851099.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/music_1775489851099.mp3",
+    "folhaVazia": "assets/folha_1779368511326.jpg",
+    "folhaPreenchida": "assets/folha_1779368511326.jpg",
+    "musica": "assets/music_1779368511326.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775489851099.jpg"
+      "1": "assets/Anna Carolina Convite Rosa Dourado (2)_1779368511326.jpg"
     }
   },
   "botoes": [
@@ -49,7 +49,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/AnnaCarolina15Anos/Anna%20Carolina%20Convite%20Rosa%20Dourado%20(2)_1775489851099.jpg"
+      "conteudo": "assets/Anna Carolina Convite Rosa Dourado (2)_1779368511326.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
