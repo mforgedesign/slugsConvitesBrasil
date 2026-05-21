@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul e Dourado",
     "tema": "Bridgerton",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778006285104.mp3",
+    "musica": "assets/music_1779369421992.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "JulianaBusson35Anos",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/cover_1778006285104.jpg",
+    "capa": "assets/cover_1779369421992.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide1_1778006285104.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide2_1778006285104.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide3_1778006285104.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide4_1778006285104.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/slide5_1778006285104.jpg"
+      "assets/slide1_1779369421992.mp4",
+      "assets/slide2_1779369421992.jpg",
+      "assets/slide3_1779369421992.mp4",
+      "assets/slide4_1779369421992.mp4",
+      "assets/slide5_1779369421992.jpg"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778006285104.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/folha_1778006285104.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/music_1778006285104.mp3",
+    "folhaVazia": "assets/folha_1779369421992.jpg",
+    "folhaPreenchida": "assets/folha_1779369421992.jpg",
+    "musica": "assets/music_1779369421992.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778006285104.jpg"
+      "1": "assets/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1779369421992.jpg"
     }
   },
   "botoes": [
@@ -50,7 +50,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/JulianaBusson35Anos/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1778006285104.jpg"
+      "conteudo": "assets/66324177-dbf7-47b1-9fdb-2f41fe9ec969_1779369421992.jpg"
     },
     {
       "tipoAcao": "RSVP",
