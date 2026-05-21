@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Amanda15Anos/music_1778078699082.mp3",
+    "musica": "assets/music_1779368017756.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Amanda15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Amanda15Anos/cover_1778078699082.jpg",
+    "capa": "assets/cover_1779368017756.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Amanda15Anos/slide1_1778078699082.mp4"
+      "assets/slide1_1779368017756.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Amanda15Anos/folha_1778078699082.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Amanda15Anos/folha_1778078699082.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Amanda15Anos/music_1778078699082.mp3",
+    "folhaVazia": "assets/folha_1779368017756.jpg",
+    "folhaPreenchida": "assets/folha_1779368017756.jpg",
+    "musica": "assets/music_1779368017756.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
