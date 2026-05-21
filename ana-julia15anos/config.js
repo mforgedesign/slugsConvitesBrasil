@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul Marinho, Rosa Bebê e Prata",
     "tema": "15 Anos",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ana-julia15anos/music_1774696153485.mp3",
+    "musica": "assets/music_1779368059093.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "ana-julia15anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ana-julia15anos/cover_1774696153485.jpg",
+    "capa": "assets/cover_1779368059093.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ana-julia15anos/slide1_1774696153485.mp4"
+      "assets/slide1_1779368059093.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ana-julia15anos/folha_1774696153485.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ana-julia15anos/folha_1774696153485.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ana-julia15anos/music_1774696153485.mp3",
+    "folhaVazia": "assets/folha_1779368059093.jpg",
+    "folhaPreenchida": "assets/folha_1779368059093.jpg",
+    "musica": "assets/music_1779368059093.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ana-julia15anos/43a3edba-300c-492b-8396-a17cfe159de7_1774696153485.jpg"
+      "1": "assets/43a3edba-300c-492b-8396-a17cfe159de7_1779368059093.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas dePresente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/ana-julia15anos/43a3edba-300c-492b-8396-a17cfe159de7_1774696153485.jpg"
+      "conteudo": "assets/43a3edba-300c-492b-8396-a17cfe159de7_1779368059093.jpg"
     },
     {
       "tipoAcao": "Link",
