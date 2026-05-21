@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rose e dourado",
     "tema": "Floral borboletas",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Agatha15Anos/music_1775509556722.mp3",
+    "musica": "assets/music_1779367938122.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Agatha15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Agatha15Anos/cover_1775509556722.jpg",
+    "capa": "assets/cover_1779367938122.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Agatha15Anos/slide1_1775509556722.mp4"
+      "assets/slide1_1779367938122.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Agatha15Anos/folha_1775509556722.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Agatha15Anos/folha_1775509556722.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/Agatha15Anos/music_1775509556722.mp3",
+    "folhaVazia": "assets/folha_1779367938122.jpg",
+    "folhaPreenchida": "assets/folha_1779367938122.jpg",
+    "musica": "assets/music_1779367938122.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
