@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul com Prata",
     "tema": "15 Anos",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/music_1774532732653.mp3",
+    "musica": "assets/music_1779371455075.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "annyeclara15anos",
@@ -21,18 +21,18 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/cover_1774532732653.jpg",
+    "capa": "assets/cover_1779371455075.jpg",
     "aberturaSlides": [
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/slide1_1774532732653.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/slide2_1774532732653.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/slide3_1774532732653.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/slide4_1774532732653.jpg",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/slide5_1774532732653.mp4",
-      "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/slide6_1774532732653.mp4"
+      "assets/slide1_1779371455075.mp4",
+      "assets/slide2_1779371455075.mp4",
+      "assets/slide3_1779371455075.mp4",
+      "assets/slide4_1779371455075.jpg",
+      "assets/slide5_1779371455075.mp4",
+      "assets/slide6_1779371455075.mp4"
     ],
-    "folhaVazia": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/folha_1774532732653.jpg",
-    "folhaPreenchida": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/folha_1774532732653.jpg",
-    "musica": "https://qhrjyhnbcqllbsfuzlmj.supabase.co/storage/v1/object/public/convite-assets/annyeclara15anos/music_1774532732653.mp3",
+    "folhaVazia": "assets/folha_1779371455075.jpg",
+    "folhaPreenchida": "assets/folha_1779371455075.jpg",
+    "musica": "assets/music_1779371455075.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
