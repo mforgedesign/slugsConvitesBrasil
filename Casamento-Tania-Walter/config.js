@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779651590908.mp3",
+    "musica": "assets/music_1779652355477.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Casamento-Tania-Walter",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779651590908.jpg",
+    "capa": "assets/cover_1779652355477.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779651590908.mp4",
-      "assets/slide2_1779651590908.mp4",
-      "assets/slide3_1779651590908.mp4",
-      "assets/slide4_1779651590908.mp4",
-      "assets/slide5_1779651590908.mp4"
+      "assets/slide1_1779652355477.mp4",
+      "assets/slide2_1779652355477.mp4",
+      "assets/slide3_1779652355477.mp4",
+      "assets/slide4_1779652355477.mp4",
+      "assets/slide5_1779652355477.mp4"
     ],
-    "folhaVazia": "assets/folha_1779651590908.jpg",
-    "folhaPreenchida": "assets/folha_1779651590908.jpg",
-    "musica": "assets/music_1779651590908.mp3",
+    "folhaVazia": "assets/folha_1779652355477.jpg",
+    "folhaPreenchida": "assets/folha_1779652355477.jpg",
+    "musica": "assets/music_1779652355477.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
