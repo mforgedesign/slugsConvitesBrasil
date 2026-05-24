@@ -10,28 +10,28 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779385609964.mp3",
+    "musica": "assets/music_1779651590908.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Casamento-Tania-Walter",
     "seo": {
       "pageTitle": "",
-      "ogTitle": "Você está convidado para os 15 anos da Alice!",
+      "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1779385609964.jpg",
+    "capa": "assets/cover_1779651590908.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779385609964.mp4",
-      "assets/slide2_1779385609964.mp4",
-      "assets/slide3_1779385609964.mp4",
-      "assets/slide4_1779385609964.mp4",
-      "assets/slide5_1779385609964.mp4"
+      "assets/slide1_1779651590908.mp4",
+      "assets/slide2_1779651590908.mp4",
+      "assets/slide3_1779651590908.mp4",
+      "assets/slide4_1779651590908.mp4",
+      "assets/slide5_1779651590908.mp4"
     ],
-    "folhaVazia": "assets/folha_1779385609964.jpg",
-    "folhaPreenchida": "assets/folha_1779385609964.jpg",
-    "musica": "assets/music_1779385609964.mp3",
+    "folhaVazia": "assets/folha_1779651590908.jpg",
+    "folhaPreenchida": "assets/folha_1779651590908.jpg",
+    "musica": "assets/music_1779651590908.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -56,6 +56,13 @@ window.config = {
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
       "conteudo": "https://docs.google.com/forms/d/e/1FAIpQLScIErSOsGbLsXU-WaWF_M2slkbtvV_wsIY0D0euKOgH6SAoBg/viewform?usp=publish-editor"
+    },
+    {
+      "tipoAcao": "Link",
+      "tipoVisual": "css",
+      "titulo": "Lista de Presentes",
+      "icone": "fa-solid fa-gift",
+      "conteudo": "https://presentes.mforge.com.br/tania-e-walter/"
     }
   ],
   "upsell": {
