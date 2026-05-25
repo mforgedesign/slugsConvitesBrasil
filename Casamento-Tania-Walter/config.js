@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779652355477.mp3",
+    "musica": "assets/music_1779709684880.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Casamento-Tania-Walter",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779652355477.jpg",
+    "capa": "assets/cover_1779709684880.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779652355477.mp4",
-      "assets/slide2_1779652355477.mp4",
-      "assets/slide3_1779652355477.mp4",
-      "assets/slide4_1779652355477.mp4",
-      "assets/slide5_1779652355477.mp4"
+      "assets/slide1_1779709684880.mp4",
+      "assets/slide2_1779709684880.mp4",
+      "assets/slide3_1779709684880.mp4",
+      "assets/slide4_1779709684880.mp4",
+      "assets/slide5_1779709684880.mp4"
     ],
-    "folhaVazia": "assets/folha_1779652355477.jpg",
-    "folhaPreenchida": "assets/folha_1779652355477.jpg",
-    "musica": "assets/music_1779652355477.mp3",
+    "folhaVazia": "assets/folha_1779709684880.jpg",
+    "folhaPreenchida": "assets/folha_1779709684880.jpg",
+    "musica": "assets/music_1779709684880.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -60,7 +60,7 @@ window.config = {
     {
       "tipoAcao": "Link",
       "tipoVisual": "css",
-      "titulo": "Lista de Presentes",
+      "titulo": "Sugestão de Presente",
       "icone": "fa-solid fa-gift",
       "conteudo": "https://presentes.mforge.com.br/tania-e-walter/"
     }
@@ -72,7 +72,7 @@ window.config = {
   },
   "config": {
     "exibirMarcaDagua": false,
-    "cronometro": false,
+    "cronometro": true,
     "buttonColor": "#973a4f",
     "buttonSize": 1,
     "isButtonFilled": true,
