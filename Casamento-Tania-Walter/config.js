@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779712024473.mp3",
+    "musica": "assets/music_1779712504757.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Casamento-Tania-Walter",
@@ -21,20 +21,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779712024473.jpg",
+    "capa": "assets/cover_1779712504757.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779712024473.mp4",
-      "assets/slide2_1779712024473.mp4",
-      "assets/slide3_1779712024473.mp4",
-      "assets/slide4_1779712024473.mp4",
-      "assets/slide5_1779712024473.mp4"
+      "assets/slide1_1779712504757.mp4",
+      "assets/slide2_1779712504757.mp4",
+      "assets/slide3_1779712504757.mp4",
+      "assets/slide4_1779712504757.mp4",
+      "assets/slide5_1779712504757.mp4"
     ],
-    "folhaVazia": "assets/folha_1779712024473.jpg",
-    "folhaPreenchida": "assets/folha_1779712024473.jpg",
-    "musica": "assets/music_1779712024473.mp3",
+    "folhaVazia": "assets/folha_1779712504757.jpg",
+    "folhaPreenchida": "assets/folha_1779712504757.jpg",
+    "musica": "assets/music_1779712504757.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "assets/ChatGPT Image 25 de mai. de 2026, 09_23_44_1779712024473.png"
+      "1": "assets/ChatGPT Image 25 de mai. de 2026, 09_23_44_1779712504757.png"
     }
   },
   "botoes": [
@@ -50,7 +50,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/ChatGPT Image 25 de mai. de 2026, 09_23_44_1779712024473.png"
+      "conteudo": "assets/ChatGPT Image 25 de mai. de 2026, 09_23_44_1779712504757.png"
     },
     {
       "tipoAcao": "Link",
