@@ -1,37 +1,37 @@
 window.config = {
   "evento": {
     "tipo": "Formatura",
-    "nome": "",
+    "nome": "Wellington Lima",
     "idade": 0,
-    "data": "",
-    "hora": "18:00",
+    "data": "2026-08-22",
+    "hora": "22:00",
     "endereco": ""
   },
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779717195359.mp3",
+    "musica": "assets/music_1779717235802.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Formatura-WellingtonLima",
     "seo": {
-      "pageTitle": "",
+      "pageTitle": "Você recebeu um convite especial!",
       "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1779717195359.jpg",
+    "capa": "assets/cover_1779717235802.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779717195359.mp4",
-      "assets/slide2_1779717195359.mp4",
-      "assets/slide3_1779717195359.mp4",
-      "assets/slide4_1779717195359.mp4",
-      "assets/slide5_1779717195359.mp4"
+      "assets/slide1_1779717235802.mp4",
+      "assets/slide2_1779717235802.mp4",
+      "assets/slide3_1779717235802.mp4",
+      "assets/slide4_1779717235802.mp4",
+      "assets/slide5_1779717235802.mp4"
     ],
-    "folhaVazia": "assets/folha_1779717195359.jpg",
-    "folhaPreenchida": "assets/folha_1779717195359.jpg",
-    "musica": "assets/music_1779717195359.mp3",
+    "folhaVazia": "assets/folha_1779717235802.jpg",
+    "folhaPreenchida": "assets/folha_1779717235802.jpg",
+    "musica": "assets/music_1779717235802.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
