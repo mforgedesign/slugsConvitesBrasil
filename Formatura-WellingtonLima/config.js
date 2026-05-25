@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779717235802.mp3",
+    "musica": "assets/music_1779717779604.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Formatura-WellingtonLima",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779717235802.jpg",
+    "capa": "assets/cover_1779717779604.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779717235802.mp4",
-      "assets/slide2_1779717235802.mp4",
-      "assets/slide3_1779717235802.mp4",
-      "assets/slide4_1779717235802.mp4",
-      "assets/slide5_1779717235802.mp4"
+      "assets/slide1_1779717779604.mp4",
+      "assets/slide2_1779717779604.mp4",
+      "assets/slide3_1779717779604.mp4",
+      "assets/slide4_1779717779604.mp4",
+      "assets/slide5_1779717779604.mp4"
     ],
-    "folhaVazia": "assets/folha_1779717235802.jpg",
-    "folhaPreenchida": "assets/folha_1779717235802.jpg",
-    "musica": "assets/music_1779717235802.mp3",
+    "folhaVazia": "assets/folha_1779717779604.jpg",
+    "folhaPreenchida": "assets/folha_1779717779604.jpg",
+    "musica": "assets/music_1779717779604.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -54,14 +54,14 @@ window.config = {
       "tipoAcao": "Link",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
-      "icone": "fa-solid fa-camera",
+      "icone": "fa-solid fa-check",
       "conteudo": "https://docs.google.com/forms/d/e/1FAIpQLSc613wD4-zq76Ubd5P_6SkZt9P6mLoBQUv5Xq_O9Bt2BPq9Gg/viewform?usp=publish-editor"
     },
     {
       "tipoAcao": "Link",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
-      "icone": "fa-solid fa-camera",
+      "icone": "fa-solid fa-check",
       "conteudo": "https://docs.google.com/forms/d/e/1FAIpQLSc613wD4-zq76Ubd5P_6SkZt9P6mLoBQUv5Xq_O9Bt2BPq9Gg/viewform?usp=publish-editor"
     }
   ],
