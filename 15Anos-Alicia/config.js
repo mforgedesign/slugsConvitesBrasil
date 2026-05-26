@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779815473091.mp3",
+    "musica": "assets/music_1779815493161.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "15Anos-Alicia",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779815473091.jpg",
+    "capa": "assets/cover_1779815493161.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779815473091.jpg"
+      "assets/slide1_1779815493161.jpg"
     ],
-    "folhaVazia": "assets/folha_1779815473091.jpg",
-    "folhaPreenchida": "assets/folha_1779815473091.jpg",
-    "musica": "assets/music_1779815473091.mp3",
+    "folhaVazia": "assets/folha_1779815493161.jpg",
+    "folhaPreenchida": "assets/folha_1779815493161.jpg",
+    "musica": "assets/music_1779815493161.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -37,7 +37,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Como Chegar",
       "icone": "fa-solid fa-location-dot",
-      "conteudo": "https://maps.app.goo.gl/apshuicUt4GEB1UW7"
+      "conteudo": "https://maps.app.goo.gl/osW2sThx1UK5nA3EA"
     },
     {
       "tipoAcao": "PopupHtml",
