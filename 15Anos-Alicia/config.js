@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779815493161.mp3",
+    "musica": "assets/music_1779817120769.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "15Anos-Alicia",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779815493161.jpg",
+    "capa": "assets/cover_1779817120769.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779815493161.jpg"
+      "assets/slide1_1779817120769.mp4"
     ],
-    "folhaVazia": "assets/folha_1779815493161.jpg",
-    "folhaPreenchida": "assets/folha_1779815493161.jpg",
-    "musica": "assets/music_1779815493161.mp3",
+    "folhaVazia": "assets/folha_1779817120769.jpg",
+    "folhaPreenchida": "assets/folha_1779817120769.jpg",
+    "musica": "assets/music_1779817120769.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
