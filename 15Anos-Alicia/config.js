@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779817120769.mp3",
+    "musica": "assets/music_1779817531411.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "15Anos-Alicia",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779817120769.jpg",
+    "capa": "assets/cover_1779817531411.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779817120769.mp4"
+      "assets/slide1_1779817531411.mp4"
     ],
-    "folhaVazia": "assets/folha_1779817120769.jpg",
-    "folhaPreenchida": "assets/folha_1779817120769.jpg",
-    "musica": "assets/music_1779817120769.mp3",
+    "folhaVazia": "assets/folha_1779817531411.jpg",
+    "folhaPreenchida": "assets/folha_1779817531411.jpg",
+    "musica": "assets/music_1779817531411.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -74,7 +74,7 @@ window.config = {
   "config": {
     "exibirMarcaDagua": false,
     "cronometro": false,
-    "buttonColor": "#0c2b71",
+    "buttonColor": "#eca2d1",
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
