@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779897044538.mp3",
+    "musica": "assets/music_1779897156190.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Luana-15Anos",
@@ -21,15 +21,15 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779897044538.jpg",
+    "capa": "assets/cover_1779897156190.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779897044538.mp4",
-      "assets/slide2_1779897044538.mp4",
-      "assets/slide3_1779897044538.mp4"
+      "assets/slide1_1779897156190.mp4",
+      "assets/slide2_1779897156190.mp4",
+      "assets/slide3_1779897156190.mp4"
     ],
-    "folhaVazia": "assets/folha_1779897044538.jpg",
-    "folhaPreenchida": "assets/folha_1779897044538.jpg",
-    "musica": "assets/music_1779897044538.mp3",
+    "folhaVazia": "assets/folha_1779897156190.jpg",
+    "folhaPreenchida": "assets/folha_1779897156190.jpg",
+    "musica": "assets/music_1779897156190.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
