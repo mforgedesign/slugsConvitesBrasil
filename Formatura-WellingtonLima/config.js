@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779719118775.mp3",
+    "musica": "assets/music_1779896821994.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Formatura-WellingtonLima",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779719118775.jpg",
+    "capa": "assets/cover_1779896821994.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779719118775.mp4",
-      "assets/slide2_1779719118775.mp4",
-      "assets/slide3_1779719118775.mp4",
-      "assets/slide4_1779719118775.mp4",
-      "assets/slide5_1779719118775.mp4"
+      "assets/slide1_1779896821994.mp4",
+      "assets/slide2_1779896821994.mp4",
+      "assets/slide3_1779896821994.mp4",
+      "assets/slide4_1779896821994.mp4",
+      "assets/slide5_1779896821994.mp4"
     ],
-    "folhaVazia": "assets/folha_1779719118775.jpg",
-    "folhaPreenchida": "assets/folha_1779719118775.jpg",
-    "musica": "assets/music_1779719118775.mp3",
+    "folhaVazia": "assets/folha_1779896821994.jpg",
+    "folhaPreenchida": "assets/folha_1779896821994.jpg",
+    "musica": "assets/music_1779896821994.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
@@ -71,7 +71,7 @@ window.config = {
     "lembrete": false
   },
   "config": {
-    "exibirMarcaDagua": false,
+    "exibirMarcaDagua": true,
     "cronometro": true,
     "buttonColor": "#1c341b",
     "buttonSize": 1,
