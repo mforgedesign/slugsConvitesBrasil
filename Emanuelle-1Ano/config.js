@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music.mp3",
+    "musica": "",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Emanuelle-1Ano",
@@ -21,13 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779895570828.jpg",
+    "capa": "assets/cover_1780068441896.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779895570828.mp4"
+      "assets/slide1_1780068441896.mp4",
+      "assets/slide2_1780068441896.mp4",
+      "assets/slide3_1780068441896.jpg",
+      "assets/slide4_1780068441896.mp4",
+      "assets/slide5_1780068441896.jpg"
     ],
-    "folhaVazia": "assets/folha_1779895570828.jpg",
-    "folhaPreenchida": "assets/folha_1779895570828.jpg",
-    "musica": "assets/music.mp3",
+    "folhaVazia": "assets/folha_1780068441896.jpg",
+    "folhaPreenchida": "assets/folha_1780068441896.jpg",
+    "musica": "",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
