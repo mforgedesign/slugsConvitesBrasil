@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1780077947994.mp3",
+    "musica": "assets/music_1780178148021.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Emanuelle-1Ano",
@@ -21,17 +21,17 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1780077947994.jpg",
+    "capa": "assets/cover_1780178148021.jpg",
     "aberturaSlides": [
-      "assets/slide1_1780077947994.mp4",
-      "assets/slide2_1780077947994.mp4",
-      "assets/slide3_1780077947994.jpg",
-      "assets/slide4_1780077947994.mp4",
-      "assets/slide5_1780077947994.jpg"
+      "assets/slide1_1780178148021.mp4",
+      "assets/slide2_1780178148021.mp4",
+      "assets/slide3_1780178148021.jpg",
+      "assets/slide4_1780178148021.mp4",
+      "assets/slide5_1780178148021.jpg"
     ],
-    "folhaVazia": "assets/folha_1780077947994.jpg",
-    "folhaPreenchida": "assets/folha_1780077947994.jpg",
-    "musica": "assets/music_1780077947994.mp3",
+    "folhaVazia": "assets/folha_1780178148021.jpg",
+    "folhaPreenchida": "assets/folha_1780178148021.jpg",
+    "musica": "assets/music_1780178148021.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
