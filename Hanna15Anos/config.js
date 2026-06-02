@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1780425951923.mp3",
+    "musica": "assets/music_1780427719055.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Hanna15Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1780425951923.jpg",
+    "capa": "assets/cover_1780427719055.jpg",
     "aberturaSlides": [
-      "assets/slide1_1780425951923.mp4"
+      "assets/slide1_1780427719055.mp4"
     ],
-    "folhaVazia": "assets/folha_1780425951923.jpg",
-    "folhaPreenchida": "assets/folha_1780425951923.jpg",
-    "musica": "assets/music_1780425951923.mp3",
+    "folhaVazia": "assets/folha_1780427719055.jpg",
+    "folhaPreenchida": "assets/folha_1780427719055.jpg",
+    "musica": "assets/music_1780427719055.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
