@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1780065447629.mp3",
+    "musica": "assets/music_1780432571641.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Alane15Anos",
@@ -21,14 +21,14 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1780065447629.jpg",
+    "capa": "assets/cover_1780432571641.jpg",
     "aberturaSlides": [
-      "assets/slide1_1780065447629.mp4",
-      "assets/slide2_1780065447629.mp4"
+      "assets/slide1_1780432571641.mp4",
+      "assets/slide2_1780432571641.mp4"
     ],
-    "folhaVazia": "assets/folha_1780065447629.jpg",
-    "folhaPreenchida": "assets/folha_1780065447629.jpg",
-    "musica": "assets/music_1780065447629.mp3",
+    "folhaVazia": "assets/folha_1780432571641.jpg",
+    "folhaPreenchida": "assets/folha_1780432571641.jpg",
+    "musica": "assets/music_1780432571641.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
