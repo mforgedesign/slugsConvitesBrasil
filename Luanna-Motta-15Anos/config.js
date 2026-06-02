@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1780425666498.mp3",
+    "musica": "assets/music_1780425683982.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Luanna-Motta-15Anos",
@@ -21,14 +21,14 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1780425666498.jpg",
+    "capa": "assets/cover_1780425683982.jpg",
     "aberturaSlides": [
-      "assets/slide1_1780425666498.mp4",
-      "assets/slide2_1780425666498.jpg"
+      "assets/slide1_1780425683982.mp4",
+      "assets/slide2_1780425683982.jpg"
     ],
-    "folhaVazia": "assets/folha_1780425666498.jpg",
-    "folhaPreenchida": "assets/folha_1780425666498.jpg",
-    "musica": "assets/music_1780425666498.mp3",
+    "folhaVazia": "assets/folha_1780425683982.jpg",
+    "folhaPreenchida": "assets/folha_1780425683982.jpg",
+    "musica": "assets/music_1780425683982.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
