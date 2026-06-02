@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779385610042.mp3",
+    "musica": "assets/music_1780427501513.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "EliCavalcante40Anos",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779385610042.png",
+    "capa": "assets/cover_1780427501513.png",
     "aberturaSlides": [
-      "assets/slide1_1779385610042.mp4"
+      "assets/slide1_1780427501513.mp4"
     ],
-    "folhaVazia": "assets/folha_1779385610042.jpg",
-    "folhaPreenchida": "assets/folha_1779385610042.jpg",
-    "musica": "assets/music_1779385610042.mp3",
+    "folhaVazia": "assets/folha_1780427501513.jpg",
+    "folhaPreenchida": "assets/folha_1780427501513.jpg",
+    "musica": "assets/music_1780427501513.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
