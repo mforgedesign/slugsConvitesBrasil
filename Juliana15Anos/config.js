@@ -3,14 +3,14 @@ window.config = {
     "tipo": "Aniversário",
     "nome": "Juliana",
     "idade": 15,
-    "data": "",
-    "hora": "18:00",
+    "data": "2026-08-29",
+    "hora": "19:00",
     "endereco": ""
   },
   "convite": {
     "paletaCores": "Marsala, rosa, dourado",
     "tema": "Medieval",
-    "musica": "assets/music_1779385610380.mp3",
+    "musica": "assets/music_1781630419750.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Juliana15Anos",
@@ -21,16 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779385610380.png",
+    "capa": "assets/cover_1781630419750.png",
     "aberturaSlides": [
-      "assets/slide1_1779385610380.mp4"
+      "assets/slide1_1781630419750.mp4"
     ],
-    "folhaVazia": "assets/folha_1779385610380.jpg",
-    "folhaPreenchida": "assets/folha_1779385610380.jpg",
-    "musica": "assets/music_1779385610380.mp3",
+    "folhaVazia": "assets/folha_1781630419750.jpg",
+    "folhaPreenchida": "assets/folha_1781630419750.jpg",
+    "musica": "assets/music_1781630419750.mp3",
     "fotos": [],
     "popupImagensPorBotao": {
-      "1": "assets/Juliana Medieval Marsala, Dourado (5)_1779385610380.jpg"
+      "1": "assets/Juliana Medieval Marsala, Dourado (5)_1781630419750.jpg"
     }
   },
   "botoes": [
@@ -46,7 +46,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/Juliana Medieval Marsala, Dourado (5)_1779385610380.jpg"
+      "conteudo": "assets/Juliana Medieval Marsala, Dourado (5)_1781630419750.jpg"
     },
     {
       "tipoAcao": "PopupHtml",
