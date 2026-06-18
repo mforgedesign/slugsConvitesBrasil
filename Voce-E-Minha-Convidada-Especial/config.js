@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1781814459019.mp3",
+    "musica": "assets/music_1781816815865.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Voce-E-Minha-Convidada-Especial",
@@ -21,13 +21,13 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1781814459019.jpg",
+    "capa": "assets/cover_1781816815865.jpg",
     "aberturaSlides": [
-      "assets/slide1_1781814459019.mp4"
+      "assets/slide1_1781816815865.mp4"
     ],
-    "folhaVazia": "assets/folha_1781814459019.jpg",
-    "folhaPreenchida": "assets/folha_1781814459019.jpg",
-    "musica": "assets/music_1781814459019.mp3",
+    "folhaVazia": "assets/folha_1781816815865.jpg",
+    "folhaPreenchida": "assets/folha_1781816815865.jpg",
+    "musica": "assets/music_1781816815865.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
