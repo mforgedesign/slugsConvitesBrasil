@@ -3,34 +3,34 @@ window.config = {
     "tipo": "Aniversário",
     "nome": "Catarina",
     "idade": 15,
-    "data": "2026-06-18",
+    "data": "2026-07-18",
     "hora": "19:00",
     "endereco": ""
   },
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1779371141535.mp3",
+    "musica": "assets/music_1781777570409.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Catarina15Anos",
     "seo": {
       "pageTitle": "",
-      "ogTitle": "Você está convidado para os 15 anos da Alice!",
+      "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1779371141535.jpg",
+    "capa": "assets/cover_1781777570409.jpg",
     "aberturaSlides": [
-      "assets/slide1_1779371141535.mp4",
-      "assets/slide2_1779371141535.jpg",
-      "assets/slide3_1779371141535.mp4",
-      "assets/slide4_1779371141535.jpg"
+      "assets/slide1_1781777570409.mp4",
+      "assets/slide2_1781777570409.jpg",
+      "assets/slide3_1781777570409.mp4",
+      "assets/slide4_1781777570409.jpg"
     ],
-    "folhaVazia": "assets/folha_1779371141535.jpg",
-    "folhaPreenchida": "assets/folha_1779371141535.jpg",
-    "musica": "assets/music_1779371141535.mp3",
+    "folhaVazia": "assets/folha_1781777570409.jpg",
+    "folhaPreenchida": "assets/folha_1781777570409.jpg",
+    "musica": "assets/music_1781777570409.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
