@@ -10,27 +10,27 @@ window.config = {
   "convite": {
     "paletaCores": "",
     "tema": "",
-    "musica": "assets/music_1781777570409.mp3",
+    "musica": "assets/music_1781777577527.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Catarina15Anos",
     "seo": {
-      "pageTitle": "",
+      "pageTitle": "Você recebeu um convite especial!",
       "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1781777570409.jpg",
+    "capa": "assets/cover_1781777577527.jpg",
     "aberturaSlides": [
-      "assets/slide1_1781777570409.mp4",
-      "assets/slide2_1781777570409.jpg",
-      "assets/slide3_1781777570409.mp4",
-      "assets/slide4_1781777570409.jpg"
+      "assets/slide1_1781777577527.mp4",
+      "assets/slide2_1781777577527.jpg",
+      "assets/slide3_1781777577527.mp4",
+      "assets/slide4_1781777577527.jpg"
     ],
-    "folhaVazia": "assets/folha_1781777570409.jpg",
-    "folhaPreenchida": "assets/folha_1781777570409.jpg",
-    "musica": "assets/music_1781777570409.mp3",
+    "folhaVazia": "assets/folha_1781777577527.jpg",
+    "folhaPreenchida": "assets/folha_1781777577527.jpg",
+    "musica": "assets/music_1781777577527.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
