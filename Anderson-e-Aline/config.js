@@ -10,7 +10,7 @@ window.config = {
   "convite": {
     "paletaCores": "Branco e Dourado",
     "tema": "Salão Elegante",
-    "musica": "assets/music_1779385609659.mp3",
+    "musica": "assets/music_1782144964823.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Anderson-e-Aline",
@@ -21,15 +21,16 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1779385609659.png",
+    "capa": "assets/cover_1782144964823.png",
     "aberturaSlides": [
-      "assets/slide1_1779385609659.mp4",
-      "assets/slide2_1779385609659.mp4",
-      "assets/slide3_1779385609659.mp4"
+      "assets/slide1_1782144964823.mp4",
+      "assets/slide2_1782144964823.mp4",
+      "assets/slide3_1782144964823.mp4",
+      "assets/slide4_1782144964823.mp4"
     ],
-    "folhaVazia": "assets/folha_1779385609659.jpg",
-    "folhaPreenchida": "assets/folha_1779385609659.jpg",
-    "musica": "assets/music_1779385609659.mp3",
+    "folhaVazia": "assets/folha_1782144964823.jpg",
+    "folhaPreenchida": "assets/folha_1782144964823.jpg",
+    "musica": "assets/music_1782144964823.mp3",
     "fotos": [],
     "popupImagensPorBotao": {}
   },
