@@ -69,7 +69,7 @@ window.config = {
   "upsell": {
     "galeriaFotos": false,
     "saveTheDate": false,
-    "lembrete": false
+    "lembrete": true
   },
   "config": {
     "exibirMarcaDagua": false,
